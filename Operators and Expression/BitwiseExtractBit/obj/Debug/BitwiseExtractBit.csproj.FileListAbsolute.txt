@@ -1,0 +1,5 @@
+C:\Users\Maria\Desktop\Telerik\Operators and Expression\BitwiseExtractBit\bin\Debug\BitwiseExtractBit.exe
+C:\Users\Maria\Desktop\Telerik\Operators and Expression\BitwiseExtractBit\bin\Debug\BitwiseExtractBit.pdb
+C:\Users\Maria\Desktop\Telerik\Operators and Expression\BitwiseExtractBit\obj\Debug\BitwiseExtractBit.csprojResolveAssemblyReference.cache
+C:\Users\Maria\Desktop\Telerik\Operators and Expression\BitwiseExtractBit\obj\Debug\BitwiseExtractBit.exe
+C:\Users\Maria\Desktop\Telerik\Operators and Expression\BitwiseExtractBit\obj\Debug\BitwiseExtractBit.pdb

@@ -1,0 +1,4 @@
+C:\Users\Maria\Desktop\stuff\Telerik\Conditional Statement\BonusScore\bin\Debug\BonusScore.exe
+C:\Users\Maria\Desktop\stuff\Telerik\Conditional Statement\BonusScore\bin\Debug\BonusScore.pdb
+C:\Users\Maria\Desktop\stuff\Telerik\Conditional Statement\BonusScore\obj\Debug\BonusScore.exe
+C:\Users\Maria\Desktop\stuff\Telerik\Conditional Statement\BonusScore\obj\Debug\BonusScore.pdb
