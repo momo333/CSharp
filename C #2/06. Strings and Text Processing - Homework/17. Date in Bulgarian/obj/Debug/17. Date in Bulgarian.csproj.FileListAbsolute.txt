@@ -1,0 +1,5 @@
+C:\Users\Maria\Desktop\06. Strings and Text Processing - Homework\17. Date in Bulgarian\bin\Debug\_17.Date_in_Bulgarian.exe
+C:\Users\Maria\Desktop\06. Strings and Text Processing - Homework\17. Date in Bulgarian\bin\Debug\_17.Date_in_Bulgarian.pdb
+C:\Users\Maria\Desktop\06. Strings and Text Processing - Homework\17. Date in Bulgarian\obj\Debug\17. Date in Bulgarian.csprojResolveAssemblyReference.cache
+C:\Users\Maria\Desktop\06. Strings and Text Processing - Homework\17. Date in Bulgarian\obj\Debug\_17.Date_in_Bulgarian.exe
+C:\Users\Maria\Desktop\06. Strings and Text Processing - Homework\17. Date in Bulgarian\obj\Debug\_17.Date_in_Bulgarian.pdb

@@ -1,0 +1,5 @@
+C:\Users\Maria\Desktop\06. Strings and Text Processing - Homework\20. Palindromes\obj\Debug\20. Palindromes.csprojResolveAssemblyReference.cache
+C:\Users\Maria\Desktop\06. Strings and Text Processing - Homework\20. Palindromes\bin\Debug\_20.Palindromes.exe
+C:\Users\Maria\Desktop\06. Strings and Text Processing - Homework\20. Palindromes\bin\Debug\_20.Palindromes.pdb
+C:\Users\Maria\Desktop\06. Strings and Text Processing - Homework\20. Palindromes\obj\Debug\_20.Palindromes.exe
+C:\Users\Maria\Desktop\06. Strings and Text Processing - Homework\20. Palindromes\obj\Debug\_20.Palindromes.pdb

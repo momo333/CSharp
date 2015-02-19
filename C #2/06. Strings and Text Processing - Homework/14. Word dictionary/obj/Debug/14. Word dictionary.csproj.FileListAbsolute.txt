@@ -1,0 +1,5 @@
+C:\Users\Maria\Desktop\06. Strings and Text Processing - Homework\14. Word dictionary\obj\Debug\14. Word dictionary.csprojResolveAssemblyReference.cache
+C:\Users\Maria\Desktop\06. Strings and Text Processing - Homework\14. Word dictionary\bin\Debug\_14.Word_dictionary.exe
+C:\Users\Maria\Desktop\06. Strings and Text Processing - Homework\14. Word dictionary\bin\Debug\_14.Word_dictionary.pdb
+C:\Users\Maria\Desktop\06. Strings and Text Processing - Homework\14. Word dictionary\obj\Debug\_14.Word_dictionary.exe
+C:\Users\Maria\Desktop\06. Strings and Text Processing - Homework\14. Word dictionary\obj\Debug\_14.Word_dictionary.pdb

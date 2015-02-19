@@ -1,0 +1,4 @@
+C:\Users\Maria\Desktop\05. Using Classes and Objects - Homework\03. Day of week\bin\Debug\_03.Day_of_week.exe
+C:\Users\Maria\Desktop\05. Using Classes and Objects - Homework\03. Day of week\bin\Debug\_03.Day_of_week.pdb
+C:\Users\Maria\Desktop\05. Using Classes and Objects - Homework\03. Day of week\obj\Debug\_03.Day_of_week.exe
+C:\Users\Maria\Desktop\05. Using Classes and Objects - Homework\03. Day of week\obj\Debug\_03.Day_of_week.pdb

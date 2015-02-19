@@ -1,0 +1,5 @@
+C:\Users\Maria\Desktop\methods\13. Solve tasks\bin\Debug\_13.Solve_tasks.exe
+C:\Users\Maria\Desktop\methods\13. Solve tasks\bin\Debug\_13.Solve_tasks.pdb
+C:\Users\Maria\Desktop\methods\13. Solve tasks\obj\Debug\13. Solve tasks.csprojResolveAssemblyReference.cache
+C:\Users\Maria\Desktop\methods\13. Solve tasks\obj\Debug\_13.Solve_tasks.exe
+C:\Users\Maria\Desktop\methods\13. Solve tasks\obj\Debug\_13.Solve_tasks.pdb

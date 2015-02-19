@@ -1,0 +1,5 @@
+C:\Users\Maria\Desktop\05. Using Classes and Objects - Homework\04. Triangle surface\bin\Debug\_04.Triangle_surface.exe
+C:\Users\Maria\Desktop\05. Using Classes and Objects - Homework\04. Triangle surface\bin\Debug\_04.Triangle_surface.pdb
+C:\Users\Maria\Desktop\05. Using Classes and Objects - Homework\04. Triangle surface\obj\Debug\04. Triangle surface.csprojResolveAssemblyReference.cache
+C:\Users\Maria\Desktop\05. Using Classes and Objects - Homework\04. Triangle surface\obj\Debug\_04.Triangle_surface.exe
+C:\Users\Maria\Desktop\05. Using Classes and Objects - Homework\04. Triangle surface\obj\Debug\_04.Triangle_surface.pdb

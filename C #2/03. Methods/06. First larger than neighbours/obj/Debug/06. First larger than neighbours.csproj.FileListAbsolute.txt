@@ -1,0 +1,4 @@
+C:\Users\Maria\Desktop\methods\06. First larger than neighbours\bin\Debug\_06.First_larger_than_neighbours.exe
+C:\Users\Maria\Desktop\methods\06. First larger than neighbours\bin\Debug\_06.First_larger_than_neighbours.pdb
+C:\Users\Maria\Desktop\methods\06. First larger than neighbours\obj\Debug\_06.First_larger_than_neighbours.exe
+C:\Users\Maria\Desktop\methods\06. First larger than neighbours\obj\Debug\_06.First_larger_than_neighbours.pdb

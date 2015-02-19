@@ -1,0 +1,2 @@
+C:\Users\Maria\Desktop\stuff\Telerik\MultidimensionalArrays\MAximalSum\obj\Debug\MAximalSum.exe
+C:\Users\Maria\Desktop\stuff\Telerik\MultidimensionalArrays\MAximalSum\obj\Debug\MAximalSum.pdb

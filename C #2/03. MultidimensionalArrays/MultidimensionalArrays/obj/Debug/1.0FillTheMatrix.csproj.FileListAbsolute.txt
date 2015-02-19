@@ -1,0 +1,5 @@
+C:\Users\Maria\Desktop\stuff\Telerik\MultidimensionalArrays\MultidimensionalArrays\bin\Debug\MultidimensionalArrays.exe
+C:\Users\Maria\Desktop\stuff\Telerik\MultidimensionalArrays\MultidimensionalArrays\bin\Debug\MultidimensionalArrays.pdb
+C:\Users\Maria\Desktop\stuff\Telerik\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\1.0FillTheMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Maria\Desktop\stuff\Telerik\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\MultidimensionalArrays.exe
+C:\Users\Maria\Desktop\stuff\Telerik\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\MultidimensionalArrays.pdb

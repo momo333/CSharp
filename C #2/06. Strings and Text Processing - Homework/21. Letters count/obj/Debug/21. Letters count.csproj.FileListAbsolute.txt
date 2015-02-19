@@ -1,0 +1,5 @@
+C:\Users\Maria\Desktop\06. Strings and Text Processing - Homework\21. Letters count\bin\Debug\_21.Letters_count.exe
+C:\Users\Maria\Desktop\06. Strings and Text Processing - Homework\21. Letters count\bin\Debug\_21.Letters_count.pdb
+C:\Users\Maria\Desktop\06. Strings and Text Processing - Homework\21. Letters count\obj\Debug\21. Letters count.csprojResolveAssemblyReference.cache
+C:\Users\Maria\Desktop\06. Strings and Text Processing - Homework\21. Letters count\obj\Debug\_21.Letters_count.exe
+C:\Users\Maria\Desktop\06. Strings and Text Processing - Homework\21. Letters count\obj\Debug\_21.Letters_count.pdb

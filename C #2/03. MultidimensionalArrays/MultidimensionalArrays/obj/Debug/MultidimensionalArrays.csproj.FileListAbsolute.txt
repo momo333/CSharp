@@ -1,0 +1,7 @@
+c:\users\maria\documents\visual studio 2013\Projects\MultidimensionalArrays\MultidimensionalArrays\bin\Debug\MultidimensionalArrays.exe
+c:\users\maria\documents\visual studio 2013\Projects\MultidimensionalArrays\MultidimensionalArrays\bin\Debug\MultidimensionalArrays.pdb
+c:\users\maria\documents\visual studio 2013\Projects\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\MultidimensionalArrays.csprojResolveAssemblyReference.cache
+c:\users\maria\documents\visual studio 2013\Projects\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\MultidimensionalArrays.exe
+c:\users\maria\documents\visual studio 2013\Projects\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\MultidimensionalArrays.pdb
+C:\Users\Maria\Desktop\stuff\Telerik\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\MultidimensionalArrays.exe
+C:\Users\Maria\Desktop\stuff\Telerik\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\MultidimensionalArrays.pdb

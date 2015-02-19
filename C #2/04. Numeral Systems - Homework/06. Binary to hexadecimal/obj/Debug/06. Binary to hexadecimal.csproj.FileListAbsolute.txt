@@ -1,0 +1,4 @@
+C:\Users\Maria\Desktop\04. Numeral Systems - Homework\06. Binary to hexadecimal\bin\Debug\_06.Binary_to_hexadecimal.exe
+C:\Users\Maria\Desktop\04. Numeral Systems - Homework\06. Binary to hexadecimal\bin\Debug\_06.Binary_to_hexadecimal.pdb
+C:\Users\Maria\Desktop\04. Numeral Systems - Homework\06. Binary to hexadecimal\obj\Debug\_06.Binary_to_hexadecimal.exe
+C:\Users\Maria\Desktop\04. Numeral Systems - Homework\06. Binary to hexadecimal\obj\Debug\_06.Binary_to_hexadecimal.pdb

@@ -1,0 +1,5 @@
+C:\Users\Maria\Desktop\methods\14. Integer calculations\obj\Debug\14. Integer calculations.csprojResolveAssemblyReference.cache
+C:\Users\Maria\Desktop\methods\14. Integer calculations\bin\Debug\_14.Integer_calculations.exe
+C:\Users\Maria\Desktop\methods\14. Integer calculations\bin\Debug\_14.Integer_calculations.pdb
+C:\Users\Maria\Desktop\methods\14. Integer calculations\obj\Debug\_14.Integer_calculations.exe
+C:\Users\Maria\Desktop\methods\14. Integer calculations\obj\Debug\_14.Integer_calculations.pdb

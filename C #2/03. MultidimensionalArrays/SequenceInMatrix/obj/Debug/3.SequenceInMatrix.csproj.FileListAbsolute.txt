@@ -1,0 +1,4 @@
+C:\Users\Maria\Desktop\stuff\Telerik\MultidimensionalArrays\SequenceInMatrix\bin\Debug\SequenceInMatrix.exe
+C:\Users\Maria\Desktop\stuff\Telerik\MultidimensionalArrays\SequenceInMatrix\bin\Debug\SequenceInMatrix.pdb
+C:\Users\Maria\Desktop\stuff\Telerik\MultidimensionalArrays\SequenceInMatrix\obj\Debug\SequenceInMatrix.exe
+C:\Users\Maria\Desktop\stuff\Telerik\MultidimensionalArrays\SequenceInMatrix\obj\Debug\SequenceInMatrix.pdb

@@ -1,0 +1,5 @@
+C:\Users\Maria\Desktop\06. Strings and Text Processing - Homework\07. Encode-decode\bin\Debug\_07.Encode_decode.exe
+C:\Users\Maria\Desktop\06. Strings and Text Processing - Homework\07. Encode-decode\bin\Debug\_07.Encode_decode.pdb
+C:\Users\Maria\Desktop\06. Strings and Text Processing - Homework\07. Encode-decode\obj\Debug\07. Encode-decode.csprojResolveAssemblyReference.cache
+C:\Users\Maria\Desktop\06. Strings and Text Processing - Homework\07. Encode-decode\obj\Debug\_07.Encode_decode.exe
+C:\Users\Maria\Desktop\06. Strings and Text Processing - Homework\07. Encode-decode\obj\Debug\_07.Encode_decode.pdb

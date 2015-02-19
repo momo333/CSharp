@@ -1,0 +1,4 @@
+C:\Users\Maria\Desktop\06. Strings and Text Processing - Homework\03. Correct brackets\bin\Debug\_03.Correct_brackets.exe
+C:\Users\Maria\Desktop\06. Strings and Text Processing - Homework\03. Correct brackets\bin\Debug\_03.Correct_brackets.pdb
+C:\Users\Maria\Desktop\06. Strings and Text Processing - Homework\03. Correct brackets\obj\Debug\_03.Correct_brackets.exe
+C:\Users\Maria\Desktop\06. Strings and Text Processing - Homework\03. Correct brackets\obj\Debug\_03.Correct_brackets.pdb

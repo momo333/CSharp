@@ -1,0 +1,4 @@
+C:\Users\Maria\Desktop\06. Strings and Text Processing - Homework\18. Extract e-mails\bin\Debug\_18.Extract_e_mails.exe
+C:\Users\Maria\Desktop\06. Strings and Text Processing - Homework\18. Extract e-mails\bin\Debug\_18.Extract_e_mails.pdb
+C:\Users\Maria\Desktop\06. Strings and Text Processing - Homework\18. Extract e-mails\obj\Debug\_18.Extract_e_mails.exe
+C:\Users\Maria\Desktop\06. Strings and Text Processing - Homework\18. Extract e-mails\obj\Debug\_18.Extract_e_mails.pdb

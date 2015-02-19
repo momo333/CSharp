@@ -1,0 +1,7 @@
+C:\Users\Maria\Desktop\06. Strings and Text Processing - Homework\01. Strings in C\bin\Debug\_01.Strings_in_C.exe
+C:\Users\Maria\Desktop\06. Strings and Text Processing - Homework\01. Strings in C\bin\Debug\_01.Strings_in_C.pdb
+C:\Users\Maria\Desktop\06. Strings and Text Processing - Homework\01. Strings in C\obj\Debug\01. Strings in C.csprojResolveAssemblyReference.cache
+C:\Users\Maria\Desktop\06. Strings and Text Processing - Homework\01. Strings in C\obj\Debug\_01.Strings_in_C.exe
+C:\Users\Maria\Desktop\06. Strings and Text Processing - Homework\01. Strings in C\obj\Debug\_01.Strings_in_C.pdb
+C:\Users\Maria\Desktop\stuff\Telerik\06. Strings and Text Processing - Homework\01. Strings in C\obj\Debug\_01.Strings_in_C.exe
+C:\Users\Maria\Desktop\stuff\Telerik\06. Strings and Text Processing - Homework\01. Strings in C\obj\Debug\_01.Strings_in_C.pdb

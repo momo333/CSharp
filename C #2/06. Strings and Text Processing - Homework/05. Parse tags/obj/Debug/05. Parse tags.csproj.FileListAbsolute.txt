@@ -1,0 +1,5 @@
+C:\Users\Maria\Desktop\06. Strings and Text Processing - Homework\05. Parse tags\bin\Debug\_05.Parse_tags.exe
+C:\Users\Maria\Desktop\06. Strings and Text Processing - Homework\05. Parse tags\bin\Debug\_05.Parse_tags.pdb
+C:\Users\Maria\Desktop\06. Strings and Text Processing - Homework\05. Parse tags\obj\Debug\05. Parse tags.csprojResolveAssemblyReference.cache
+C:\Users\Maria\Desktop\06. Strings and Text Processing - Homework\05. Parse tags\obj\Debug\_05.Parse_tags.exe
+C:\Users\Maria\Desktop\06. Strings and Text Processing - Homework\05. Parse tags\obj\Debug\_05.Parse_tags.pdb

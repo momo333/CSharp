@@ -1,0 +1,5 @@
+C:\Users\Maria\Desktop\06. Strings and Text Processing - Homework\19. Dates from text in Canada\bin\Debug\_19.Dates_from_text_in_Canada.exe
+C:\Users\Maria\Desktop\06. Strings and Text Processing - Homework\19. Dates from text in Canada\bin\Debug\_19.Dates_from_text_in_Canada.pdb
+C:\Users\Maria\Desktop\06. Strings and Text Processing - Homework\19. Dates from text in Canada\obj\Debug\19. Dates from text in Canada.csprojResolveAssemblyReference.cache
+C:\Users\Maria\Desktop\06. Strings and Text Processing - Homework\19. Dates from text in Canada\obj\Debug\_19.Dates_from_text_in_Canada.exe
+C:\Users\Maria\Desktop\06. Strings and Text Processing - Homework\19. Dates from text in Canada\obj\Debug\_19.Dates_from_text_in_Canada.pdb

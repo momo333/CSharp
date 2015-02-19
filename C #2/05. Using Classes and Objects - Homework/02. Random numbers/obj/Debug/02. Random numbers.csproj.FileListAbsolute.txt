@@ -1,0 +1,4 @@
+C:\Users\Maria\Desktop\05. Using Classes and Objects - Homework\02. Random numbers\bin\Debug\_02.Random_numbers.exe
+C:\Users\Maria\Desktop\05. Using Classes and Objects - Homework\02. Random numbers\bin\Debug\_02.Random_numbers.pdb
+C:\Users\Maria\Desktop\05. Using Classes and Objects - Homework\02. Random numbers\obj\Debug\_02.Random_numbers.exe
+C:\Users\Maria\Desktop\05. Using Classes and Objects - Homework\02. Random numbers\obj\Debug\_02.Random_numbers.pdb

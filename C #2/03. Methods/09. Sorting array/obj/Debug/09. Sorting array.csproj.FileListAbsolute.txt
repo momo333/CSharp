@@ -1,0 +1,4 @@
+C:\Users\Maria\Desktop\methods\09. Sorting array\bin\Debug\_09.Sorting_array.exe
+C:\Users\Maria\Desktop\methods\09. Sorting array\bin\Debug\_09.Sorting_array.pdb
+C:\Users\Maria\Desktop\methods\09. Sorting array\obj\Debug\_09.Sorting_array.exe
+C:\Users\Maria\Desktop\methods\09. Sorting array\obj\Debug\_09.Sorting_array.pdb

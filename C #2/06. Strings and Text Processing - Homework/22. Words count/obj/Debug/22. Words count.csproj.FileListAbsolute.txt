@@ -1,0 +1,5 @@
+C:\Users\Maria\Desktop\06. Strings and Text Processing - Homework\22. Words count\bin\Debug\_22.Words_count.exe
+C:\Users\Maria\Desktop\06. Strings and Text Processing - Homework\22. Words count\bin\Debug\_22.Words_count.pdb
+C:\Users\Maria\Desktop\06. Strings and Text Processing - Homework\22. Words count\obj\Debug\22. Words count.csprojResolveAssemblyReference.cache
+C:\Users\Maria\Desktop\06. Strings and Text Processing - Homework\22. Words count\obj\Debug\_22.Words_count.exe
+C:\Users\Maria\Desktop\06. Strings and Text Processing - Homework\22. Words count\obj\Debug\_22.Words_count.pdb

@@ -1,0 +1,4 @@
+C:\Users\Maria\Desktop\stuff\Telerik\MultidimensionalArrays\BinarySearch\bin\Debug\BinarySearch.exe
+C:\Users\Maria\Desktop\stuff\Telerik\MultidimensionalArrays\BinarySearch\bin\Debug\BinarySearch.pdb
+C:\Users\Maria\Desktop\stuff\Telerik\MultidimensionalArrays\BinarySearch\obj\Debug\BinarySearch.exe
+C:\Users\Maria\Desktop\stuff\Telerik\MultidimensionalArrays\BinarySearch\obj\Debug\BinarySearch.pdb

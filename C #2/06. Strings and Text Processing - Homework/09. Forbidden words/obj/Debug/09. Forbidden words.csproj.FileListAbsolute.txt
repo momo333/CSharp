@@ -1,0 +1,10 @@
+C:\Users\Maria\Desktop\06. Strings and Text Processing - Homework\09. Forbidden words\bin\Debug\_09.Forbidden_words.exe
+C:\Users\Maria\Desktop\06. Strings and Text Processing - Homework\09. Forbidden words\bin\Debug\_09.Forbidden_words.pdb
+C:\Users\Maria\Desktop\06. Strings and Text Processing - Homework\09. Forbidden words\obj\Debug\09. Forbidden words.csprojResolveAssemblyReference.cache
+C:\Users\Maria\Desktop\06. Strings and Text Processing - Homework\09. Forbidden words\obj\Debug\_09.Forbidden_words.exe
+C:\Users\Maria\Desktop\06. Strings and Text Processing - Homework\09. Forbidden words\obj\Debug\_09.Forbidden_words.pdb
+C:\Users\Maria\Desktop\stuff\Telerik\06. Strings and Text Processing - Homework\09. Forbidden words\obj\Debug\_09.Forbidden_words.exe
+C:\Users\Maria\Desktop\stuff\Telerik\06. Strings and Text Processing - Homework\09. Forbidden words\obj\Debug\_09.Forbidden_words.pdb
+C:\Users\Maria\Desktop\stuff\Telerik\06. Strings and Text Processing - Homework\09. Forbidden words\bin\Debug\_09.Forbidden_words.exe
+C:\Users\Maria\Desktop\stuff\Telerik\06. Strings and Text Processing - Homework\09. Forbidden words\bin\Debug\_09.Forbidden_words.pdb
+C:\Users\Maria\Desktop\stuff\Telerik\06. Strings and Text Processing - Homework\09. Forbidden words\obj\Debug\09. Forbidden words.csprojResolveAssemblyReference.cache
