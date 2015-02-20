@@ -1,0 +1,4 @@
+C:\Users\Maria\Desktop\stuff\Telerik\Arrays\CombinationsOfSet\bin\Debug\CombinationsOfSet.exe
+C:\Users\Maria\Desktop\stuff\Telerik\Arrays\CombinationsOfSet\bin\Debug\CombinationsOfSet.pdb
+C:\Users\Maria\Desktop\stuff\Telerik\Arrays\CombinationsOfSet\obj\Debug\CombinationsOfSet.exe
+C:\Users\Maria\Desktop\stuff\Telerik\Arrays\CombinationsOfSet\obj\Debug\CombinationsOfSet.pdb

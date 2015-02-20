@@ -1,0 +1,7 @@
+C:\Users\Maria\documents\visual studio 2013\Projects\Arrays\PermutationsOfSet\bin\Debug\PermutationsOfSet.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\Arrays\PermutationsOfSet\bin\Debug\PermutationsOfSet.pdb
+C:\Users\Maria\documents\visual studio 2013\Projects\Arrays\PermutationsOfSet\obj\Debug\PermutationsOfSet.csprojResolveAssemblyReference.cache
+C:\Users\Maria\documents\visual studio 2013\Projects\Arrays\PermutationsOfSet\obj\Debug\PermutationsOfSet.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\Arrays\PermutationsOfSet\obj\Debug\PermutationsOfSet.pdb
+C:\Users\Maria\Desktop\stuff\Telerik\Arrays\PermutationsOfSet\obj\Debug\PermutationsOfSet.exe
+C:\Users\Maria\Desktop\stuff\Telerik\Arrays\PermutationsOfSet\obj\Debug\PermutationsOfSet.pdb

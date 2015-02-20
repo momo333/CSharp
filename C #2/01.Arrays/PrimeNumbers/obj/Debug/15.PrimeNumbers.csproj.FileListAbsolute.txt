@@ -1,0 +1,2 @@
+C:\Users\Maria\Desktop\stuff\Telerik\Arrays\PrimeNumbers\obj\Debug\PrimeNumbers.exe
+C:\Users\Maria\Desktop\stuff\Telerik\Arrays\PrimeNumbers\obj\Debug\PrimeNumbers.pdb

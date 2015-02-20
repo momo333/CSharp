@@ -1,0 +1,4 @@
+C:\Users\Maria\Desktop\methods\03. English digit\bin\Debug\_03.English_digit.exe
+C:\Users\Maria\Desktop\methods\03. English digit\bin\Debug\_03.English_digit.pdb
+C:\Users\Maria\Desktop\methods\03. English digit\obj\Debug\_03.English_digit.exe
+C:\Users\Maria\Desktop\methods\03. English digit\obj\Debug\_03.English_digit.pdb

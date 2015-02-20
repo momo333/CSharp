@@ -1,0 +1,4 @@
+C:\Users\Maria\Desktop\stuff\Telerik\Arrays\CompareCharArray\bin\Debug\CompareCharArray.exe
+C:\Users\Maria\Desktop\stuff\Telerik\Arrays\CompareCharArray\bin\Debug\CompareCharArray.pdb
+C:\Users\Maria\Desktop\stuff\Telerik\Arrays\CompareCharArray\obj\Debug\CompareCharArray.exe
+C:\Users\Maria\Desktop\stuff\Telerik\Arrays\CompareCharArray\obj\Debug\CompareCharArray.pdb

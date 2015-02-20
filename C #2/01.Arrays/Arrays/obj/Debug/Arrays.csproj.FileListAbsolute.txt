@@ -1,0 +1,10 @@
+c:\users\maria\documents\visual studio 2013\Projects\Arrays\Arrays\bin\Debug\Arrays.exe
+c:\users\maria\documents\visual studio 2013\Projects\Arrays\Arrays\bin\Debug\Arrays.pdb
+c:\users\maria\documents\visual studio 2013\Projects\Arrays\Arrays\obj\Debug\Arrays.csprojResolveAssemblyReference.cache
+c:\users\maria\documents\visual studio 2013\Projects\Arrays\Arrays\obj\Debug\Arrays.exe
+c:\users\maria\documents\visual studio 2013\Projects\Arrays\Arrays\obj\Debug\Arrays.pdb
+C:\Users\Maria\Desktop\stuff\Telerik\Arrays\Arrays\obj\Debug\Arrays.exe
+C:\Users\Maria\Desktop\stuff\Telerik\Arrays\Arrays\obj\Debug\Arrays.pdb
+C:\Users\Maria\Desktop\stuff\Telerik\Arrays\Arrays\bin\Debug\Arrays.exe
+C:\Users\Maria\Desktop\stuff\Telerik\Arrays\Arrays\bin\Debug\Arrays.pdb
+C:\Users\Maria\Desktop\stuff\Telerik\Arrays\Arrays\obj\Debug\Arrays.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+C:\Users\Maria\Desktop\methods\04. Appearance count\bin\Debug\_04.Appearance_count.exe
+C:\Users\Maria\Desktop\methods\04. Appearance count\bin\Debug\_04.Appearance_count.pdb
+C:\Users\Maria\Desktop\methods\04. Appearance count\obj\Debug\_04.Appearance_count.exe
+C:\Users\Maria\Desktop\methods\04. Appearance count\obj\Debug\_04.Appearance_count.pdb

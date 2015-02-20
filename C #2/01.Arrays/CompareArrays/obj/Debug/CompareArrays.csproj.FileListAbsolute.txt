@@ -1,0 +1,4 @@
+C:\Users\Maria\Desktop\stuff\Telerik\Arrays\CompareArrays\bin\Debug\CompareArrays.exe
+C:\Users\Maria\Desktop\stuff\Telerik\Arrays\CompareArrays\bin\Debug\CompareArrays.pdb
+C:\Users\Maria\Desktop\stuff\Telerik\Arrays\CompareArrays\obj\Debug\CompareArrays.exe
+C:\Users\Maria\Desktop\stuff\Telerik\Arrays\CompareArrays\obj\Debug\CompareArrays.pdb

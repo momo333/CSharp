@@ -1,0 +1,5 @@
+C:\Users\Maria\Desktop\stuff\Telerik\Arrays\SumInArray\bin\Debug\SumInArray.exe
+C:\Users\Maria\Desktop\stuff\Telerik\Arrays\SumInArray\bin\Debug\SumInArray.pdb
+C:\Users\Maria\Desktop\stuff\Telerik\Arrays\SumInArray\obj\Debug\10.FIndSumInArray.csprojResolveAssemblyReference.cache
+C:\Users\Maria\Desktop\stuff\Telerik\Arrays\SumInArray\obj\Debug\SumInArray.exe
+C:\Users\Maria\Desktop\stuff\Telerik\Arrays\SumInArray\obj\Debug\SumInArray.pdb

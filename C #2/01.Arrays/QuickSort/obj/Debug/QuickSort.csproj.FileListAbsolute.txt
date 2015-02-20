@@ -1,0 +1,7 @@
+C:\Users\Maria\documents\visual studio 2013\Projects\Arrays\QuickSort\bin\Debug\QuickSort.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\Arrays\QuickSort\bin\Debug\QuickSort.pdb
+C:\Users\Maria\documents\visual studio 2013\Projects\Arrays\QuickSort\obj\Debug\QuickSort.csprojResolveAssemblyReference.cache
+C:\Users\Maria\documents\visual studio 2013\Projects\Arrays\QuickSort\obj\Debug\QuickSort.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\Arrays\QuickSort\obj\Debug\QuickSort.pdb
+C:\Users\Maria\Desktop\stuff\Telerik\Arrays\QuickSort\obj\Debug\QuickSort.exe
+C:\Users\Maria\Desktop\stuff\Telerik\Arrays\QuickSort\obj\Debug\QuickSort.pdb

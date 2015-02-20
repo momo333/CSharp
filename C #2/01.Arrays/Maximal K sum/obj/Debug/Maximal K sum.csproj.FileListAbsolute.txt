@@ -1,0 +1,10 @@
+c:\Users\Maria\documents\visual studio 2013\Projects\Arrays\Maximal K sum\bin\Debug\Maximal K sum.exe
+c:\Users\Maria\documents\visual studio 2013\Projects\Arrays\Maximal K sum\bin\Debug\Maximal K sum.pdb
+c:\Users\Maria\documents\visual studio 2013\Projects\Arrays\Maximal K sum\obj\Debug\Maximal K sum.csprojResolveAssemblyReference.cache
+c:\Users\Maria\documents\visual studio 2013\Projects\Arrays\Maximal K sum\obj\Debug\Maximal K sum.exe
+c:\Users\Maria\documents\visual studio 2013\Projects\Arrays\Maximal K sum\obj\Debug\Maximal K sum.pdb
+C:\Users\Maria\Desktop\stuff\Telerik\Arrays\Maximal K sum\obj\Debug\Maximal K sum.exe
+C:\Users\Maria\Desktop\stuff\Telerik\Arrays\Maximal K sum\obj\Debug\Maximal K sum.pdb
+C:\Users\Maria\Desktop\stuff\Telerik\Arrays\Maximal K sum\bin\Debug\Maximal K sum.exe
+C:\Users\Maria\Desktop\stuff\Telerik\Arrays\Maximal K sum\bin\Debug\Maximal K sum.pdb
+C:\Users\Maria\Desktop\stuff\Telerik\Arrays\Maximal K sum\obj\Debug\Maximal K sum.csprojResolveAssemblyReference.cache

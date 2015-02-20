@@ -1,0 +1,7 @@
+C:\Users\Maria\documents\visual studio 2013\Projects\Arrays\MergeSort\bin\Debug\MergeSort.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\Arrays\MergeSort\bin\Debug\MergeSort.pdb
+C:\Users\Maria\documents\visual studio 2013\Projects\Arrays\MergeSort\obj\Debug\MergeSort.csprojResolveAssemblyReference.cache
+C:\Users\Maria\documents\visual studio 2013\Projects\Arrays\MergeSort\obj\Debug\MergeSort.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\Arrays\MergeSort\obj\Debug\MergeSort.pdb
+C:\Users\Maria\Desktop\stuff\Telerik\Arrays\MergeSort\obj\Debug\MergeSort.exe
+C:\Users\Maria\Desktop\stuff\Telerik\Arrays\MergeSort\obj\Debug\MergeSort.pdb

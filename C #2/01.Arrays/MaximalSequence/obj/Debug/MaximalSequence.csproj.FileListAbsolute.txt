@@ -1,0 +1,10 @@
+c:\Users\Maria\documents\visual studio 2013\Projects\Arrays\MaximalSequence\bin\Debug\MaximalSequence.exe
+c:\Users\Maria\documents\visual studio 2013\Projects\Arrays\MaximalSequence\bin\Debug\MaximalSequence.pdb
+c:\Users\Maria\documents\visual studio 2013\Projects\Arrays\MaximalSequence\obj\Debug\MaximalSequence.exe
+c:\Users\Maria\documents\visual studio 2013\Projects\Arrays\MaximalSequence\obj\Debug\MaximalSequence.pdb
+c:\Users\Maria\documents\visual studio 2013\Projects\Arrays\MaximalSequence\obj\Debug\MaximalSequence.csprojResolveAssemblyReference.cache
+C:\Users\Maria\Desktop\stuff\Telerik\Arrays\MaximalSequence\obj\Debug\MaximalSequence.exe
+C:\Users\Maria\Desktop\stuff\Telerik\Arrays\MaximalSequence\obj\Debug\MaximalSequence.pdb
+C:\Users\Maria\Desktop\stuff\Telerik\Arrays\MaximalSequence\bin\Debug\MaximalSequence.exe
+C:\Users\Maria\Desktop\stuff\Telerik\Arrays\MaximalSequence\bin\Debug\MaximalSequence.pdb
+C:\Users\Maria\Desktop\stuff\Telerik\Arrays\MaximalSequence\obj\Debug\MaximalSequence.csprojResolveAssemblyReference.cache

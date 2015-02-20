@@ -1,0 +1,4 @@
+C:\Users\Maria\Desktop\stuff\Telerik\Arrays\IndexOfLetters\obj\Debug\IndexOfLetters.exe
+C:\Users\Maria\Desktop\stuff\Telerik\Arrays\IndexOfLetters\obj\Debug\IndexOfLetters.pdb
+C:\Users\Maria\Desktop\stuff\Telerik\Arrays\IndexOfLetters\bin\Debug\IndexOfLetters.exe
+C:\Users\Maria\Desktop\stuff\Telerik\Arrays\IndexOfLetters\bin\Debug\IndexOfLetters.pdb

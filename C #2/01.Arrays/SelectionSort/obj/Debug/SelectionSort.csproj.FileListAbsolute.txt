@@ -1,0 +1,1 @@
+c:\Users\Maria\documents\visual studio 2013\Projects\Arrays\SelectionSort\bin\Debug\SelectionSort.exe.config

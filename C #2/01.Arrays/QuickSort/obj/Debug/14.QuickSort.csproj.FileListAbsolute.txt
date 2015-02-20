@@ -1,0 +1,2 @@
+C:\Users\Maria\Desktop\stuff\Telerik\Arrays\QuickSort\obj\Debug\QuickSort.exe
+C:\Users\Maria\Desktop\stuff\Telerik\Arrays\QuickSort\obj\Debug\QuickSort.pdb

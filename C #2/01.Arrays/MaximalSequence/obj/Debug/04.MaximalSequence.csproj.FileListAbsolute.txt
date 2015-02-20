@@ -1,0 +1,2 @@
+C:\Users\Maria\Desktop\stuff\Telerik\Arrays\MaximalSequence\obj\Debug\MaximalSequence.exe
+C:\Users\Maria\Desktop\stuff\Telerik\Arrays\MaximalSequence\obj\Debug\MaximalSequence.pdb
