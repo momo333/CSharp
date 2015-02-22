@@ -1,5 +1,0 @@
-C:\Users\Maria\Desktop\07. Exception Handling - Homework\01. Square root\bin\Debug\_01.Square_root.exe
-C:\Users\Maria\Desktop\07. Exception Handling - Homework\01. Square root\bin\Debug\_01.Square_root.pdb
-C:\Users\Maria\Desktop\07. Exception Handling - Homework\01. Square root\obj\Debug\01. Square root.csprojResolveAssemblyReference.cache
-C:\Users\Maria\Desktop\07. Exception Handling - Homework\01. Square root\obj\Debug\_01.Square_root.exe
-C:\Users\Maria\Desktop\07. Exception Handling - Homework\01. Square root\obj\Debug\_01.Square_root.pdb

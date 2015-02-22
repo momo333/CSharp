@@ -1,4 +1,0 @@
-C:\Users\Maria\Desktop\07. Exception Handling - Homework\02. Enter numbers\bin\Debug\_02.Enter_numbers.exe
-C:\Users\Maria\Desktop\07. Exception Handling - Homework\02. Enter numbers\bin\Debug\_02.Enter_numbers.pdb
-C:\Users\Maria\Desktop\07. Exception Handling - Homework\02. Enter numbers\obj\Debug\_02.Enter_numbers.exe
-C:\Users\Maria\Desktop\07. Exception Handling - Homework\02. Enter numbers\obj\Debug\_02.Enter_numbers.pdb

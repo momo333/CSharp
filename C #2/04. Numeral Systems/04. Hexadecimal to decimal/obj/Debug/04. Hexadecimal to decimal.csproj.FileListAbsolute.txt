@@ -1,0 +1,5 @@
+C:\Users\Maria\Desktop\04. Numeral Systems - Homework\04. Hexadecimal to decimal\bin\Debug\_04.Hexadecimal_to_decimal.exe.config
+C:\Users\Maria\Desktop\stuff\Telerik\04. Numeral Systems - Homework\04. Hexadecimal to decimal\bin\Debug\_04.Hexadecimal_to_decimal.exe
+C:\Users\Maria\Desktop\stuff\Telerik\04. Numeral Systems - Homework\04. Hexadecimal to decimal\bin\Debug\_04.Hexadecimal_to_decimal.pdb
+C:\Users\Maria\Desktop\stuff\Telerik\04. Numeral Systems - Homework\04. Hexadecimal to decimal\obj\Debug\_04.Hexadecimal_to_decimal.exe
+C:\Users\Maria\Desktop\stuff\Telerik\04. Numeral Systems - Homework\04. Hexadecimal to decimal\obj\Debug\_04.Hexadecimal_to_decimal.pdb
