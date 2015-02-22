@@ -1,0 +1,5 @@
+C:\Users\Momo\Documents\Visual Studio 2012\Projects\Loops\Problem 15.HexadecimalToDecimalNumber\bin\Debug\Problem 15.HexadecimalToDecimalNumber.exe.config
+C:\Users\Maria\Desktop\stuff\Telerik\Loops\Problem 15.HexadecimalToDecimalNumber\bin\Debug\Problem 15.HexadecimalToDecimalNumber.exe
+C:\Users\Maria\Desktop\stuff\Telerik\Loops\Problem 15.HexadecimalToDecimalNumber\bin\Debug\Problem 15.HexadecimalToDecimalNumber.pdb
+C:\Users\Maria\Desktop\stuff\Telerik\Loops\Problem 15.HexadecimalToDecimalNumber\obj\Debug\Problem 15.HexadecimalToDecimalNumber.exe
+C:\Users\Maria\Desktop\stuff\Telerik\Loops\Problem 15.HexadecimalToDecimalNumber\obj\Debug\Problem 15.HexadecimalToDecimalNumber.pdb

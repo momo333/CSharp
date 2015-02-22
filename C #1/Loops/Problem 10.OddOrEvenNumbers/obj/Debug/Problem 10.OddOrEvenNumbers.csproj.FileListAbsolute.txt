@@ -1,0 +1,5 @@
+C:\Users\Momo\Documents\Visual Studio 2012\Projects\Loops\Problem 10.OddOrEvenNumbers\bin\Debug\Problem 10.OddOrEvenNumbers.exe.config
+C:\Users\Maria\Desktop\stuff\Telerik\Loops\Problem 10.OddOrEvenNumbers\bin\Debug\Problem 10.OddOrEvenNumbers.exe
+C:\Users\Maria\Desktop\stuff\Telerik\Loops\Problem 10.OddOrEvenNumbers\bin\Debug\Problem 10.OddOrEvenNumbers.pdb
+C:\Users\Maria\Desktop\stuff\Telerik\Loops\Problem 10.OddOrEvenNumbers\obj\Debug\Problem 10.OddOrEvenNumbers.exe
+C:\Users\Maria\Desktop\stuff\Telerik\Loops\Problem 10.OddOrEvenNumbers\obj\Debug\Problem 10.OddOrEvenNumbers.pdb

@@ -1,0 +1,4 @@
+C:\Users\Maria\Desktop\stuff\Telerik\Loops\MinMaxSumAndAverageofNNumbers\bin\Debug\MinMaxSumAndAverageofNNumbers.exe
+C:\Users\Maria\Desktop\stuff\Telerik\Loops\MinMaxSumAndAverageofNNumbers\bin\Debug\MinMaxSumAndAverageofNNumbers.pdb
+C:\Users\Maria\Desktop\stuff\Telerik\Loops\MinMaxSumAndAverageofNNumbers\obj\Debug\MinMaxSumAndAverageofNNumbers.exe
+C:\Users\Maria\Desktop\stuff\Telerik\Loops\MinMaxSumAndAverageofNNumbers\obj\Debug\MinMaxSumAndAverageofNNumbers.pdb

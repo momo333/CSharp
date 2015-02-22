@@ -1,0 +1,5 @@
+C:\Users\Momo\Documents\Visual Studio 2012\Projects\Loops\Problem 18.TrailingZeroes\bin\Debug\Problem 18.TrailingZeroes.exe.config
+C:\Users\Maria\Desktop\stuff\Telerik\Loops\Problem 18.TrailingZeroes\bin\Debug\Problem 18.TrailingZeroes.exe
+C:\Users\Maria\Desktop\stuff\Telerik\Loops\Problem 18.TrailingZeroes\bin\Debug\Problem 18.TrailingZeroes.pdb
+C:\Users\Maria\Desktop\stuff\Telerik\Loops\Problem 18.TrailingZeroes\obj\Debug\Problem 18.TrailingZeroes.exe
+C:\Users\Maria\Desktop\stuff\Telerik\Loops\Problem 18.TrailingZeroes\obj\Debug\Problem 18.TrailingZeroes.pdb

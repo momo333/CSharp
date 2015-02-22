@@ -1,0 +1,7 @@
+c:\users\momo\documents\visual studio 2012\Projects\Loops\MatrixOfNumbers\bin\Debug\MatrixOfNumbers.exe
+c:\users\momo\documents\visual studio 2012\Projects\Loops\MatrixOfNumbers\bin\Debug\MatrixOfNumbers.pdb
+c:\users\momo\documents\visual studio 2012\Projects\Loops\MatrixOfNumbers\obj\Debug\MatrixOfNumbers.csprojResolveAssemblyReference.cache
+c:\users\momo\documents\visual studio 2012\Projects\Loops\MatrixOfNumbers\obj\Debug\MatrixOfNumbers.exe
+c:\users\momo\documents\visual studio 2012\Projects\Loops\MatrixOfNumbers\obj\Debug\MatrixOfNumbers.pdb
+C:\Users\Maria\Desktop\stuff\Telerik\Loops\MatrixOfNumbers\obj\Debug\MatrixOfNumbers.exe
+C:\Users\Maria\Desktop\stuff\Telerik\Loops\MatrixOfNumbers\obj\Debug\MatrixOfNumbers.pdb

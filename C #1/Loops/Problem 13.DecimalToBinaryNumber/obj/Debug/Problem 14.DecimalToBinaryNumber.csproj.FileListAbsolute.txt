@@ -1,0 +1,4 @@
+C:\Users\Maria\Desktop\stuff\Telerik\Loops\Problem 13.DecimalToBinaryNumber\obj\Debug\Problem 13.DecimalToBinaryNumber.exe
+C:\Users\Maria\Desktop\stuff\Telerik\Loops\Problem 13.DecimalToBinaryNumber\obj\Debug\Problem 13.DecimalToBinaryNumber.pdb
+C:\Users\Maria\Desktop\stuff\Telerik\Loops\Problem 13.DecimalToBinaryNumber\bin\Debug\Problem 13.DecimalToBinaryNumber.exe
+C:\Users\Maria\Desktop\stuff\Telerik\Loops\Problem 13.DecimalToBinaryNumber\bin\Debug\Problem 13.DecimalToBinaryNumber.pdb

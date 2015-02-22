@@ -1,0 +1,6 @@
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\SpiralMatrix\bin\Debug\SpiralMatrix.exe.config
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\SpiralMatrix\bin\Debug\SpiralMatrix.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\SpiralMatrix\bin\Debug\SpiralMatrix.pdb
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\SpiralMatrix\obj\Debug\SpiralMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\SpiralMatrix\obj\Debug\SpiralMatrix.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\SpiralMatrix\obj\Debug\SpiralMatrix.pdb

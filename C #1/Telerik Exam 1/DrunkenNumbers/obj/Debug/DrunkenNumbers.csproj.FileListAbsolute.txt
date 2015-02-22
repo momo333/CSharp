@@ -1,0 +1,5 @@
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\DrunkenNumbers\bin\Debug\DrunkenNumbers.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\DrunkenNumbers\bin\Debug\DrunkenNumbers.pdb
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\DrunkenNumbers\obj\Debug\DrunkenNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\DrunkenNumbers\obj\Debug\DrunkenNumbers.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\DrunkenNumbers\obj\Debug\DrunkenNumbers.pdb

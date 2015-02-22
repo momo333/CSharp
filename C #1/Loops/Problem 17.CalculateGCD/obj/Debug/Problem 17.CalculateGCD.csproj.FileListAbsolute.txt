@@ -1,0 +1,5 @@
+C:\Users\Momo\Documents\Visual Studio 2012\Projects\Loops\Problem 17.CalculateGCD\bin\Debug\Problem 17.CalculateGCD.exe.config
+C:\Users\Maria\Desktop\stuff\Telerik\Loops\Problem 17.CalculateGCD\bin\Debug\Problem 17.CalculateGCD.exe
+C:\Users\Maria\Desktop\stuff\Telerik\Loops\Problem 17.CalculateGCD\bin\Debug\Problem 17.CalculateGCD.pdb
+C:\Users\Maria\Desktop\stuff\Telerik\Loops\Problem 17.CalculateGCD\obj\Debug\Problem 17.CalculateGCD.exe
+C:\Users\Maria\Desktop\stuff\Telerik\Loops\Problem 17.CalculateGCD\obj\Debug\Problem 17.CalculateGCD.pdb

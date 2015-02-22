@@ -1,0 +1,5 @@
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\UKFlag\bin\Debug\UKFlag.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\UKFlag\bin\Debug\UKFlag.pdb
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\UKFlag\obj\Debug\UKFlag.csprojResolveAssemblyReference.cache
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\UKFlag\obj\Debug\UKFlag.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\UKFlag\obj\Debug\UKFlag.pdb

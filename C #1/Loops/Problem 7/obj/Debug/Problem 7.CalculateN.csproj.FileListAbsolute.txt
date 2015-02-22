@@ -1,0 +1,4 @@
+C:\Users\Maria\Desktop\stuff\Telerik\Loops\Problem 7\bin\Debug\Problem 7.exe
+C:\Users\Maria\Desktop\stuff\Telerik\Loops\Problem 7\bin\Debug\Problem 7.pdb
+C:\Users\Maria\Desktop\stuff\Telerik\Loops\Problem 7\obj\Debug\Problem 7.exe
+C:\Users\Maria\Desktop\stuff\Telerik\Loops\Problem 7\obj\Debug\Problem 7.pdb

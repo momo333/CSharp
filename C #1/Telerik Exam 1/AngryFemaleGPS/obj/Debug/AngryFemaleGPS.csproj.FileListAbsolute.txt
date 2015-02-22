@@ -1,0 +1,5 @@
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\AngryFemaleGPS\bin\Debug\AngryFemaleGPS.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\AngryFemaleGPS\bin\Debug\AngryFemaleGPS.pdb
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\AngryFemaleGPS\obj\Debug\AngryFemaleGPS.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\AngryFemaleGPS\obj\Debug\AngryFemaleGPS.pdb
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\AngryFemaleGPS\obj\Debug\AngryFemaleGPS.csprojResolveAssemblyReference.cache

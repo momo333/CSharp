@@ -1,0 +1,5 @@
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\CaspichaniaBoats\bin\Debug\CaspichaniaBoats.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\CaspichaniaBoats\bin\Debug\CaspichaniaBoats.pdb
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\CaspichaniaBoats\obj\Debug\CaspichaniaBoats.csprojResolveAssemblyReference.cache
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\CaspichaniaBoats\obj\Debug\CaspichaniaBoats.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\CaspichaniaBoats\obj\Debug\CaspichaniaBoats.pdb

@@ -1,0 +1,7 @@
+C:\Users\Maria\Desktop\stuff\Telerik\Loops\Problem 14 BinaryToDecimalNumber\bin\Debug\Problem 14 BinaryToDecimalNumber.exe
+C:\Users\Maria\Desktop\stuff\Telerik\Loops\Problem 14 BinaryToDecimalNumber\bin\Debug\Problem 14 BinaryToDecimalNumber.pdb
+C:\Users\Maria\Desktop\stuff\Telerik\Loops\Problem 14 BinaryToDecimalNumber\obj\Debug\Problem 143BinaryToDecimalNumber.csprojResolveAssemblyReference.cache
+C:\Users\Maria\Desktop\stuff\Telerik\Loops\Problem 14 BinaryToDecimalNumber\obj\Debug\Problem_14_BinaryToDecimalNumber.Properties.Resources.resources
+C:\Users\Maria\Desktop\stuff\Telerik\Loops\Problem 14 BinaryToDecimalNumber\obj\Debug\Problem 143BinaryToDecimalNumber.csproj.GenerateResource.Cache
+C:\Users\Maria\Desktop\stuff\Telerik\Loops\Problem 14 BinaryToDecimalNumber\obj\Debug\Problem 14 BinaryToDecimalNumber.exe
+C:\Users\Maria\Desktop\stuff\Telerik\Loops\Problem 14 BinaryToDecimalNumber\obj\Debug\Problem 14 BinaryToDecimalNumber.pdb

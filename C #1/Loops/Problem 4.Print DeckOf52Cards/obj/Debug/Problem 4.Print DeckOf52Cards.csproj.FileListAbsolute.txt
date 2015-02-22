@@ -1,0 +1,10 @@
+C:\Users\Momo\Documents\Visual Studio 2012\Projects\Loops\Problem 4.Print DeckOf52Cards\bin\Debug\Problem 4.Print DeckOf52Cards.exe
+C:\Users\Momo\Documents\Visual Studio 2012\Projects\Loops\Problem 4.Print DeckOf52Cards\bin\Debug\Problem 4.Print DeckOf52Cards.pdb
+C:\Users\Momo\Documents\Visual Studio 2012\Projects\Loops\Problem 4.Print DeckOf52Cards\obj\Debug\Problem 4.Print DeckOf52Cards.csprojResolveAssemblyReference.cache
+C:\Users\Momo\Documents\Visual Studio 2012\Projects\Loops\Problem 4.Print DeckOf52Cards\obj\Debug\Problem 4.Print DeckOf52Cards.exe
+C:\Users\Momo\Documents\Visual Studio 2012\Projects\Loops\Problem 4.Print DeckOf52Cards\obj\Debug\Problem 4.Print DeckOf52Cards.pdb
+C:\Users\Maria\Desktop\stuff\Telerik\Loops\Problem 4.Print DeckOf52Cards\obj\Debug\Problem 4.Print DeckOf52Cards.exe
+C:\Users\Maria\Desktop\stuff\Telerik\Loops\Problem 4.Print DeckOf52Cards\obj\Debug\Problem 4.Print DeckOf52Cards.pdb
+C:\Users\Maria\Desktop\stuff\Telerik\Loops\Problem 4.Print DeckOf52Cards\bin\Debug\Problem 4.Print DeckOf52Cards.exe
+C:\Users\Maria\Desktop\stuff\Telerik\Loops\Problem 4.Print DeckOf52Cards\bin\Debug\Problem 4.Print DeckOf52Cards.pdb
+C:\Users\Maria\Desktop\stuff\Telerik\Loops\Problem 4.Print DeckOf52Cards\obj\Debug\Problem 4.Print DeckOf52Cards.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+c:\users\maria\documents\visual studio 2013\Projects\27.12.2012Telerik\TribonacciTriangle\bin\Debug\TribonacciTriangle.exe
+c:\users\maria\documents\visual studio 2013\Projects\27.12.2012Telerik\TribonacciTriangle\bin\Debug\TribonacciTriangle.pdb
+c:\users\maria\documents\visual studio 2013\Projects\27.12.2012Telerik\TribonacciTriangle\obj\Debug\TribonacciTriangle.csprojResolveAssemblyReference.cache
+c:\users\maria\documents\visual studio 2013\Projects\27.12.2012Telerik\TribonacciTriangle\obj\Debug\TribonacciTriangle.exe
+c:\users\maria\documents\visual studio 2013\Projects\27.12.2012Telerik\TribonacciTriangle\obj\Debug\TribonacciTriangle.pdb

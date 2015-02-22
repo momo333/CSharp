@@ -1,0 +1,5 @@
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\LeastMjorityMultiple\bin\Debug\LeastMjorityMultiple.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\LeastMjorityMultiple\bin\Debug\LeastMjorityMultiple.pdb
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\LeastMjorityMultiple\obj\Debug\LeastMjorityMultiple.csprojResolveAssemblyReference.cache
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\LeastMjorityMultiple\obj\Debug\LeastMjorityMultiple.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\LeastMjorityMultiple\obj\Debug\LeastMjorityMultiple.pdb

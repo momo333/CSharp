@@ -1,0 +1,4 @@
+C:\Users\Maria\Desktop\stuff\Telerik\Loops\NumbersNotDevisibleBYSevenAndThree\bin\Debug\NumbersNotDevisibleBYSevenAndThree.exe
+C:\Users\Maria\Desktop\stuff\Telerik\Loops\NumbersNotDevisibleBYSevenAndThree\bin\Debug\NumbersNotDevisibleBYSevenAndThree.pdb
+C:\Users\Maria\Desktop\stuff\Telerik\Loops\NumbersNotDevisibleBYSevenAndThree\obj\Debug\NumbersNotDevisibleBYSevenAndThree.exe
+C:\Users\Maria\Desktop\stuff\Telerik\Loops\NumbersNotDevisibleBYSevenAndThree\obj\Debug\NumbersNotDevisibleBYSevenAndThree.pdb

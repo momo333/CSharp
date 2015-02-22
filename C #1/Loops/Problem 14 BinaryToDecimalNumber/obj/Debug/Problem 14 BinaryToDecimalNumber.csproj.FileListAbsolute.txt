@@ -1,0 +1,1 @@
+C:\Users\Momo\Documents\Visual Studio 2012\Projects\Loops\Problem 14 BinaryToDecimalNumber\bin\Debug\Problem 14 BinaryToDecimalNumber.exe.config

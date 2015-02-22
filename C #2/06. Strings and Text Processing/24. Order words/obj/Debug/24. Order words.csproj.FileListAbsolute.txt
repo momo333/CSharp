@@ -1,0 +1,5 @@
+C:\Users\Maria\Desktop\06. Strings and Text Processing - Homework\24. Order words\bin\Debug\_24.Order_words.exe
+C:\Users\Maria\Desktop\06. Strings and Text Processing - Homework\24. Order words\bin\Debug\_24.Order_words.pdb
+C:\Users\Maria\Desktop\06. Strings and Text Processing - Homework\24. Order words\obj\Debug\24. Order words.csprojResolveAssemblyReference.cache
+C:\Users\Maria\Desktop\06. Strings and Text Processing - Homework\24. Order words\obj\Debug\_24.Order_words.exe
+C:\Users\Maria\Desktop\06. Strings and Text Processing - Homework\24. Order words\obj\Debug\_24.Order_words.pdb

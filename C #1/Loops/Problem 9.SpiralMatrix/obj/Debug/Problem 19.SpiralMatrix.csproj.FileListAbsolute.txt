@@ -1,0 +1,4 @@
+C:\Users\Maria\Desktop\stuff\Telerik\Loops\Problem 9.SpiralMatrix\bin\Debug\Problem 9.SpiralMatrix.exe
+C:\Users\Maria\Desktop\stuff\Telerik\Loops\Problem 9.SpiralMatrix\bin\Debug\Problem 9.SpiralMatrix.pdb
+C:\Users\Maria\Desktop\stuff\Telerik\Loops\Problem 9.SpiralMatrix\obj\Debug\Problem 9.SpiralMatrix.exe
+C:\Users\Maria\Desktop\stuff\Telerik\Loops\Problem 9.SpiralMatrix\obj\Debug\Problem 9.SpiralMatrix.pdb

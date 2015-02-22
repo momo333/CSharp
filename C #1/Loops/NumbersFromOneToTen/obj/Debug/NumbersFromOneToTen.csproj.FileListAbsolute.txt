@@ -1,0 +1,7 @@
+c:\users\momo\documents\visual studio 2012\Projects\Loops\NumbersFromOneToTen\bin\Debug\NumbersFromOneToTen.exe
+c:\users\momo\documents\visual studio 2012\Projects\Loops\NumbersFromOneToTen\bin\Debug\NumbersFromOneToTen.pdb
+c:\users\momo\documents\visual studio 2012\Projects\Loops\NumbersFromOneToTen\obj\Debug\NumbersFromOneToTen.csprojResolveAssemblyReference.cache
+c:\users\momo\documents\visual studio 2012\Projects\Loops\NumbersFromOneToTen\obj\Debug\NumbersFromOneToTen.exe
+c:\users\momo\documents\visual studio 2012\Projects\Loops\NumbersFromOneToTen\obj\Debug\NumbersFromOneToTen.pdb
+C:\Users\Maria\Desktop\stuff\Telerik\Loops\NumbersFromOneToTen\obj\Debug\NumbersFromOneToTen.exe
+C:\Users\Maria\Desktop\stuff\Telerik\Loops\NumbersFromOneToTen\obj\Debug\NumbersFromOneToTen.pdb

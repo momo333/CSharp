@@ -1,0 +1,5 @@
+C:\Users\Maria\Desktop\stuff\Telerik\Loops\NumbersFromOneToTen\bin\Debug\NumbersFromOneToTen.exe
+C:\Users\Maria\Desktop\stuff\Telerik\Loops\NumbersFromOneToTen\bin\Debug\NumbersFromOneToTen.pdb
+C:\Users\Maria\Desktop\stuff\Telerik\Loops\NumbersFromOneToTen\obj\Debug\Problem 1.NumbersFromOneToTen.csprojResolveAssemblyReference.cache
+C:\Users\Maria\Desktop\stuff\Telerik\Loops\NumbersFromOneToTen\obj\Debug\NumbersFromOneToTen.exe
+C:\Users\Maria\Desktop\stuff\Telerik\Loops\NumbersFromOneToTen\obj\Debug\NumbersFromOneToTen.pdb

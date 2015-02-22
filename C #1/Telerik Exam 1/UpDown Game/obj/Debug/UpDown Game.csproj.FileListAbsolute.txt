@@ -1,0 +1,4 @@
+c:\users\maria\documents\visual studio 2013\Projects\27.12.2012Telerik\UpDown Game\bin\Debug\UpDown Game.exe
+c:\users\maria\documents\visual studio 2013\Projects\27.12.2012Telerik\UpDown Game\bin\Debug\UpDown Game.pdb
+c:\users\maria\documents\visual studio 2013\Projects\27.12.2012Telerik\UpDown Game\obj\Debug\UpDown Game.exe
+c:\users\maria\documents\visual studio 2013\Projects\27.12.2012Telerik\UpDown Game\obj\Debug\UpDown Game.pdb

@@ -1,0 +1,5 @@
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\FirTree\bin\Debug\FirTree.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\FirTree\bin\Debug\FirTree.pdb
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\FirTree\obj\Debug\FirTree.csprojResolveAssemblyReference.cache
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\FirTree\obj\Debug\FirTree.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\FirTree\obj\Debug\FirTree.pdb

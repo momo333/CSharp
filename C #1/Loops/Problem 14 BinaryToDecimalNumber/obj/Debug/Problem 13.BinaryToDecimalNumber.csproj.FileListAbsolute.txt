@@ -1,0 +1,2 @@
+C:\Users\Maria\Desktop\stuff\Telerik\Loops\Problem 14 BinaryToDecimalNumber\obj\Debug\Problem 14 BinaryToDecimalNumber.exe
+C:\Users\Maria\Desktop\stuff\Telerik\Loops\Problem 14 BinaryToDecimalNumber\obj\Debug\Problem 14 BinaryToDecimalNumber.pdb

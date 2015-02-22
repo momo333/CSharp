@@ -1,0 +1,4 @@
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\CartesianCoordinateSystem\bin\Debug\CartesianCoordinateSystem.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\CartesianCoordinateSystem\bin\Debug\CartesianCoordinateSystem.pdb
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\CartesianCoordinateSystem\obj\Debug\CartesianCoordinateSystem.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\CartesianCoordinateSystem\obj\Debug\CartesianCoordinateSystem.pdb

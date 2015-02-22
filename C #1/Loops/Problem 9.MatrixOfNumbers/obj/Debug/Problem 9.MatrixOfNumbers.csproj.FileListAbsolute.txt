@@ -1,0 +1,5 @@
+C:\Users\Momo\Documents\Visual Studio 2012\Projects\Loops\Problem 9.MatrixOfNumbers\bin\Debug\Problem 9.MatrixOfNumbers.exe.config
+C:\Users\Maria\Desktop\stuff\Telerik\Loops\Problem 9.MatrixOfNumbers\bin\Debug\Problem 9.MatrixOfNumbers.exe
+C:\Users\Maria\Desktop\stuff\Telerik\Loops\Problem 9.MatrixOfNumbers\bin\Debug\Problem 9.MatrixOfNumbers.pdb
+C:\Users\Maria\Desktop\stuff\Telerik\Loops\Problem 9.MatrixOfNumbers\obj\Debug\Problem 9.MatrixOfNumbers.exe
+C:\Users\Maria\Desktop\stuff\Telerik\Loops\Problem 9.MatrixOfNumbers\obj\Debug\Problem 9.MatrixOfNumbers.pdb

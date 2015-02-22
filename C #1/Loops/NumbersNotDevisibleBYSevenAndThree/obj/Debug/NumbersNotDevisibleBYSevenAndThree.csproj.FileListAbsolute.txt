@@ -1,0 +1,1 @@
+c:\users\momo\documents\visual studio 2012\Projects\Loops\NumbersNotDevisibleBYSevenAndThree\bin\Debug\NumbersNotDevisibleBYSevenAndThree.exe.config

@@ -1,0 +1,5 @@
+C:\Users\Maria\Desktop\07. Exception Handling - Homework\03. Read file contents\bin\Debug\_03.Read_file_contents.exe
+C:\Users\Maria\Desktop\07. Exception Handling - Homework\03. Read file contents\bin\Debug\_03.Read_file_contents.pdb
+C:\Users\Maria\Desktop\07. Exception Handling - Homework\03. Read file contents\obj\Debug\03. Read file contents.csprojResolveAssemblyReference.cache
+C:\Users\Maria\Desktop\07. Exception Handling - Homework\03. Read file contents\obj\Debug\_03.Read_file_contents.exe
+C:\Users\Maria\Desktop\07. Exception Handling - Homework\03. Read file contents\obj\Debug\_03.Read_file_contents.pdb

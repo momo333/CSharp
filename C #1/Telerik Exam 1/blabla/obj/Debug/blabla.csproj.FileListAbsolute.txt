@@ -1,0 +1,4 @@
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\blabla\bin\Debug\blabla.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\blabla\bin\Debug\blabla.pdb
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\blabla\obj\Debug\blabla.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\blabla\obj\Debug\blabla.pdb

@@ -1,0 +1,6 @@
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\MathExpression\bin\Debug\MathExpression.exe.config
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\MathExpression\bin\Debug\MathExpression.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\MathExpression\bin\Debug\MathExpression.pdb
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\MathExpression\obj\Debug\MathExpression.csprojResolveAssemblyReference.cache
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\MathExpression\obj\Debug\MathExpression.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\MathExpression\obj\Debug\MathExpression.pdb
