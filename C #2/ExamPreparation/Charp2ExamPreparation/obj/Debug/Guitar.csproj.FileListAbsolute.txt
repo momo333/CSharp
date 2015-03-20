@@ -1,0 +1,5 @@
+C:\Users\Maria\documents\visual studio 2013\Projects\Charp2ExamPreparation\Charp2ExamPreparation\bin\Debug\Charp2ExamPreparation.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\Charp2ExamPreparation\Charp2ExamPreparation\bin\Debug\Charp2ExamPreparation.pdb
+C:\Users\Maria\documents\visual studio 2013\Projects\Charp2ExamPreparation\Charp2ExamPreparation\obj\Debug\Guitar.csprojResolveAssemblyReference.cache
+C:\Users\Maria\documents\visual studio 2013\Projects\Charp2ExamPreparation\Charp2ExamPreparation\obj\Debug\Charp2ExamPreparation.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\Charp2ExamPreparation\Charp2ExamPreparation\obj\Debug\Charp2ExamPreparation.pdb

@@ -1,0 +1,5 @@
+C:\Users\Maria\documents\visual studio 2013\Projects\Charp2ExamPreparation\TRES4Numbers\bin\Debug\TRES4Numbers.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\Charp2ExamPreparation\TRES4Numbers\bin\Debug\TRES4Numbers.pdb
+C:\Users\Maria\documents\visual studio 2013\Projects\Charp2ExamPreparation\TRES4Numbers\obj\Debug\TRES4Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Maria\documents\visual studio 2013\Projects\Charp2ExamPreparation\TRES4Numbers\obj\Debug\TRES4Numbers.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\Charp2ExamPreparation\TRES4Numbers\obj\Debug\TRES4Numbers.pdb

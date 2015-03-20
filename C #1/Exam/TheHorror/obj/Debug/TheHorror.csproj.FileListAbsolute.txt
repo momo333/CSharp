@@ -1,0 +1,5 @@
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\TheHorror\bin\Debug\TheHorror.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\TheHorror\bin\Debug\TheHorror.pdb
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\TheHorror\obj\Debug\TheHorror.csprojResolveAssemblyReference.cache
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\TheHorror\obj\Debug\TheHorror.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\TheHorror\obj\Debug\TheHorror.pdb

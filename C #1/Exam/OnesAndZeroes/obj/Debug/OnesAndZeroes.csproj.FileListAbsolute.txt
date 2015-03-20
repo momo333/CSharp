@@ -1,0 +1,5 @@
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\OnesAndZeroes\bin\Debug\OnesAndZeroes.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\OnesAndZeroes\bin\Debug\OnesAndZeroes.pdb
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\OnesAndZeroes\obj\Debug\OnesAndZeroes.csprojResolveAssemblyReference.cache
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\OnesAndZeroes\obj\Debug\OnesAndZeroes.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\OnesAndZeroes\obj\Debug\OnesAndZeroes.pdb

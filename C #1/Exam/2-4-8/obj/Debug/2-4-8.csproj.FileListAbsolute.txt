@@ -1,0 +1,6 @@
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\2-4-8\bin\Debug\2-4-8.exe.config
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\2-4-8\bin\Debug\2-4-8.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\2-4-8\bin\Debug\2-4-8.pdb
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\2-4-8\obj\Debug\2-4-8.csprojResolveAssemblyReference.cache
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\2-4-8\obj\Debug\2-4-8.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\2-4-8\obj\Debug\2-4-8.pdb

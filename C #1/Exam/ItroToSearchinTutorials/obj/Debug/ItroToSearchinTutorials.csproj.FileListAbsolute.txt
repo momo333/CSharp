@@ -1,0 +1,6 @@
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\ItroToSearchinTutorials\bin\Debug\ItroToSearchinTutorials.exe.config
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\ItroToSearchinTutorials\bin\Debug\ItroToSearchinTutorials.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\ItroToSearchinTutorials\bin\Debug\ItroToSearchinTutorials.pdb
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\ItroToSearchinTutorials\obj\Debug\ItroToSearchinTutorials.csprojResolveAssemblyReference.cache
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\ItroToSearchinTutorials\obj\Debug\ItroToSearchinTutorials.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\ItroToSearchinTutorials\obj\Debug\ItroToSearchinTutorials.pdb

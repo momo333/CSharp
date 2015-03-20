@@ -1,0 +1,5 @@
+C:\Users\Maria\documents\visual studio 2013\Projects\Charp2ExamPreparation\DurankulakNumbers\bin\Debug\DurankulakNumbers.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\Charp2ExamPreparation\DurankulakNumbers\bin\Debug\DurankulakNumbers.pdb
+C:\Users\Maria\documents\visual studio 2013\Projects\Charp2ExamPreparation\DurankulakNumbers\obj\Debug\DurankulakNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Maria\documents\visual studio 2013\Projects\Charp2ExamPreparation\DurankulakNumbers\obj\Debug\DurankulakNumbers.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\Charp2ExamPreparation\DurankulakNumbers\obj\Debug\DurankulakNumbers.pdb

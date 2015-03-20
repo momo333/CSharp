@@ -1,0 +1,5 @@
+C:\Users\Maria\documents\visual studio 2013\Projects\Charp2ExamPreparation\Pattern\bin\Debug\Pattern.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\Charp2ExamPreparation\Pattern\bin\Debug\Pattern.pdb
+C:\Users\Maria\documents\visual studio 2013\Projects\Charp2ExamPreparation\Pattern\obj\Debug\Pattern.csprojResolveAssemblyReference.cache
+C:\Users\Maria\documents\visual studio 2013\Projects\Charp2ExamPreparation\Pattern\obj\Debug\Pattern.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\Charp2ExamPreparation\Pattern\obj\Debug\Pattern.pdb

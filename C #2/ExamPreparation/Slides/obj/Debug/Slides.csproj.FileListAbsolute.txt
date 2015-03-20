@@ -1,0 +1,5 @@
+C:\Users\Maria\documents\visual studio 2013\Projects\Charp2ExamPreparation\Slides\bin\Debug\Slides.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\Charp2ExamPreparation\Slides\bin\Debug\Slides.pdb
+C:\Users\Maria\documents\visual studio 2013\Projects\Charp2ExamPreparation\Slides\obj\Debug\Slides.csprojResolveAssemblyReference.cache
+C:\Users\Maria\documents\visual studio 2013\Projects\Charp2ExamPreparation\Slides\obj\Debug\Slides.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\Charp2ExamPreparation\Slides\obj\Debug\Slides.pdb

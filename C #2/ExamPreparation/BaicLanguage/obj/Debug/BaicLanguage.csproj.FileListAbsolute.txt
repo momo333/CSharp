@@ -1,0 +1,4 @@
+C:\Users\Maria\documents\visual studio 2013\Projects\Charp2ExamPreparation\BaicLanguage\bin\Debug\BaicLanguage.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\Charp2ExamPreparation\BaicLanguage\bin\Debug\BaicLanguage.pdb
+C:\Users\Maria\documents\visual studio 2013\Projects\Charp2ExamPreparation\BaicLanguage\obj\Debug\BaicLanguage.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\Charp2ExamPreparation\BaicLanguage\obj\Debug\BaicLanguage.pdb

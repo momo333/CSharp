@@ -1,0 +1,6 @@
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\Garden\bin\Debug\Garden.exe.config
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\Garden\bin\Debug\Garden.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\Garden\bin\Debug\Garden.pdb
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\Garden\obj\Debug\Garden.csprojResolveAssemblyReference.cache
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\Garden\obj\Debug\Garden.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\Garden\obj\Debug\Garden.pdb

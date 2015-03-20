@@ -1,0 +1,6 @@
+c:\users\maria\documents\visual studio 2013\Projects\27.12.2012Telerik\QuadroncciNumbers\bin\Debug\QuadroncciNumbers.exe.config
+c:\users\maria\documents\visual studio 2013\Projects\27.12.2012Telerik\QuadroncciNumbers\bin\Debug\QuadroncciNumbers.exe
+c:\users\maria\documents\visual studio 2013\Projects\27.12.2012Telerik\QuadroncciNumbers\bin\Debug\QuadroncciNumbers.pdb
+c:\users\maria\documents\visual studio 2013\Projects\27.12.2012Telerik\QuadroncciNumbers\obj\Debug\QuadroncciNumbers.csprojResolveAssemblyReference.cache
+c:\users\maria\documents\visual studio 2013\Projects\27.12.2012Telerik\QuadroncciNumbers\obj\Debug\QuadroncciNumbers.exe
+c:\users\maria\documents\visual studio 2013\Projects\27.12.2012Telerik\QuadroncciNumbers\obj\Debug\QuadroncciNumbers.pdb

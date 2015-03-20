@@ -1,0 +1,6 @@
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\Bat-Goiko Tower\bin\Debug\Bat-Goiko Tower.exe.config
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\Bat-Goiko Tower\bin\Debug\Bat-Goiko Tower.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\Bat-Goiko Tower\bin\Debug\Bat-Goiko Tower.pdb
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\Bat-Goiko Tower\obj\Debug\Bat-Goiko Tower.csprojResolveAssemblyReference.cache
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\Bat-Goiko Tower\obj\Debug\Bat-Goiko Tower.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\Bat-Goiko Tower\obj\Debug\Bat-Goiko Tower.pdb

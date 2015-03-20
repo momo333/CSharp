@@ -1,0 +1,5 @@
+C:\Users\Maria\documents\visual studio 2013\Projects\Charp2ExamPreparation\ThreeDStars\bin\Debug\ThreeDStars.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\Charp2ExamPreparation\ThreeDStars\bin\Debug\ThreeDStars.pdb
+C:\Users\Maria\documents\visual studio 2013\Projects\Charp2ExamPreparation\ThreeDStars\obj\Debug\ThreeDStars.csprojResolveAssemblyReference.cache
+C:\Users\Maria\documents\visual studio 2013\Projects\Charp2ExamPreparation\ThreeDStars\obj\Debug\ThreeDStars.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\Charp2ExamPreparation\ThreeDStars\obj\Debug\ThreeDStars.pdb

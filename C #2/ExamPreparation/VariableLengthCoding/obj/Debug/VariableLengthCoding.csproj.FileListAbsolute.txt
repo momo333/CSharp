@@ -1,0 +1,5 @@
+C:\Users\Maria\documents\visual studio 2013\Projects\Charp2ExamPreparation\VariableLengthCoding\bin\Debug\VariableLengthCoding.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\Charp2ExamPreparation\VariableLengthCoding\bin\Debug\VariableLengthCoding.pdb
+C:\Users\Maria\documents\visual studio 2013\Projects\Charp2ExamPreparation\VariableLengthCoding\obj\Debug\VariableLengthCoding.csprojResolveAssemblyReference.cache
+C:\Users\Maria\documents\visual studio 2013\Projects\Charp2ExamPreparation\VariableLengthCoding\obj\Debug\VariableLengthCoding.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\Charp2ExamPreparation\VariableLengthCoding\obj\Debug\VariableLengthCoding.pdb

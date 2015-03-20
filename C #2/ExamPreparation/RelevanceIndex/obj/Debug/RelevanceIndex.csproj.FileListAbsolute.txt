@@ -1,0 +1,5 @@
+C:\Users\Maria\documents\visual studio 2013\Projects\Charp2ExamPreparation\RelevanceIndex\bin\Debug\RelevanceIndex.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\Charp2ExamPreparation\RelevanceIndex\bin\Debug\RelevanceIndex.pdb
+C:\Users\Maria\documents\visual studio 2013\Projects\Charp2ExamPreparation\RelevanceIndex\obj\Debug\RelevanceIndex.csprojResolveAssemblyReference.cache
+C:\Users\Maria\documents\visual studio 2013\Projects\Charp2ExamPreparation\RelevanceIndex\obj\Debug\RelevanceIndex.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\Charp2ExamPreparation\RelevanceIndex\obj\Debug\RelevanceIndex.pdb

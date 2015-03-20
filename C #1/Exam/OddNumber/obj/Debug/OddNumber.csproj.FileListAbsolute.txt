@@ -1,0 +1,5 @@
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\OddNumber\bin\Debug\OddNumber.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\OddNumber\bin\Debug\OddNumber.pdb
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\OddNumber\obj\Debug\OddNumber.csprojResolveAssemblyReference.cache
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\OddNumber\obj\Debug\OddNumber.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\OddNumber\obj\Debug\OddNumber.pdb

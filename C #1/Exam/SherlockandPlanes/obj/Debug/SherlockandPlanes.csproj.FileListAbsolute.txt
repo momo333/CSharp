@@ -1,0 +1,5 @@
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\SherlockandPlanes\bin\Debug\SherlockandPlanes.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\SherlockandPlanes\bin\Debug\SherlockandPlanes.pdb
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\SherlockandPlanes\obj\Debug\SherlockandPlanes.csprojResolveAssemblyReference.cache
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\SherlockandPlanes\obj\Debug\SherlockandPlanes.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\SherlockandPlanes\obj\Debug\SherlockandPlanes.pdb

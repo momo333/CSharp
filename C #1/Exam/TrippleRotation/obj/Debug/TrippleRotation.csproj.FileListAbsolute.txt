@@ -1,0 +1,5 @@
+c:\users\maria\documents\visual studio 2013\Projects\27.12.2012Telerik\TrippleRotation\bin\Debug\TrippleRotation.exe
+c:\users\maria\documents\visual studio 2013\Projects\27.12.2012Telerik\TrippleRotation\bin\Debug\TrippleRotation.pdb
+c:\users\maria\documents\visual studio 2013\Projects\27.12.2012Telerik\TrippleRotation\obj\Debug\TrippleRotation.csprojResolveAssemblyReference.cache
+c:\users\maria\documents\visual studio 2013\Projects\27.12.2012Telerik\TrippleRotation\obj\Debug\TrippleRotation.exe
+c:\users\maria\documents\visual studio 2013\Projects\27.12.2012Telerik\TrippleRotation\obj\Debug\TrippleRotation.pdb

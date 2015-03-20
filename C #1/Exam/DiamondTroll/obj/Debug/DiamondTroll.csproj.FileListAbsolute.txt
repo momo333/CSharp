@@ -1,0 +1,5 @@
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\DiamondTroll\bin\Debug\DiamondTroll.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\DiamondTroll\bin\Debug\DiamondTroll.pdb
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\DiamondTroll\obj\Debug\DiamondTroll.csprojResolveAssemblyReference.cache
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\DiamondTroll\obj\Debug\DiamondTroll.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\DiamondTroll\obj\Debug\DiamondTroll.pdb

@@ -1,0 +1,6 @@
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\Poker\bin\Debug\Poker.exe.config
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\Poker\bin\Debug\Poker.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\Poker\bin\Debug\Poker.pdb
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\Poker\obj\Debug\Poker.csprojResolveAssemblyReference.cache
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\Poker\obj\Debug\Poker.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\Poker\obj\Debug\Poker.pdb

@@ -1,0 +1,5 @@
+C:\Users\Maria\documents\visual studio 2013\Projects\Charp2ExamPreparation\Tubes\bin\Debug\Tubes.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\Charp2ExamPreparation\Tubes\bin\Debug\Tubes.pdb
+C:\Users\Maria\documents\visual studio 2013\Projects\Charp2ExamPreparation\Tubes\obj\Debug\Tubes.csprojResolveAssemblyReference.cache
+C:\Users\Maria\documents\visual studio 2013\Projects\Charp2ExamPreparation\Tubes\obj\Debug\Tubes.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\Charp2ExamPreparation\Tubes\obj\Debug\Tubes.pdb

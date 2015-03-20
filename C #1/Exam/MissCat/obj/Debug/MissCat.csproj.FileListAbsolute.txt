@@ -1,0 +1,5 @@
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\MissCat\bin\Debug\MissCat.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\MissCat\bin\Debug\MissCat.pdb
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\MissCat\obj\Debug\MissCat.csprojResolveAssemblyReference.cache
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\MissCat\obj\Debug\MissCat.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\MissCat\obj\Debug\MissCat.pdb

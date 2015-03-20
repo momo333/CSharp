@@ -1,0 +1,5 @@
+C:\Users\Maria\documents\visual studio 2013\Projects\Charp2ExamPreparation\2-7Segmentss\bin\Debug\2-7Segmentss.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\Charp2ExamPreparation\2-7Segmentss\bin\Debug\2-7Segmentss.pdb
+C:\Users\Maria\documents\visual studio 2013\Projects\Charp2ExamPreparation\2-7Segmentss\obj\Debug\2-7Segmentss.csprojResolveAssemblyReference.cache
+C:\Users\Maria\documents\visual studio 2013\Projects\Charp2ExamPreparation\2-7Segmentss\obj\Debug\2-7Segmentss.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\Charp2ExamPreparation\2-7Segmentss\obj\Debug\2-7Segmentss.pdb

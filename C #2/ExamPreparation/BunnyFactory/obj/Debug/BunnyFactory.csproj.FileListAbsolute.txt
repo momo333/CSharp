@@ -1,0 +1,5 @@
+C:\Users\Maria\documents\visual studio 2013\Projects\Charp2ExamPreparation\BunnyFactory\bin\Debug\BunnyFactory.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\Charp2ExamPreparation\BunnyFactory\bin\Debug\BunnyFactory.pdb
+C:\Users\Maria\documents\visual studio 2013\Projects\Charp2ExamPreparation\BunnyFactory\obj\Debug\BunnyFactory.csprojResolveAssemblyReference.cache
+C:\Users\Maria\documents\visual studio 2013\Projects\Charp2ExamPreparation\BunnyFactory\obj\Debug\BunnyFactory.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\Charp2ExamPreparation\BunnyFactory\obj\Debug\BunnyFactory.pdb

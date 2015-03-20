@@ -1,0 +1,4 @@
+C:\Users\Maria\Documents\Visual Studio 2013\Projects\27.12.2012Telerik\X-pression\bin\Debug\X-pression.exe
+C:\Users\Maria\Documents\Visual Studio 2013\Projects\27.12.2012Telerik\X-pression\bin\Debug\X-pression.pdb
+C:\Users\Maria\Documents\Visual Studio 2013\Projects\27.12.2012Telerik\X-pression\obj\Debug\X-pression.exe
+C:\Users\Maria\Documents\Visual Studio 2013\Projects\27.12.2012Telerik\X-pression\obj\Debug\X-pression.pdb

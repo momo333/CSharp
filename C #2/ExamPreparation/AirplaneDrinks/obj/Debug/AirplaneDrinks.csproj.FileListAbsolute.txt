@@ -1,0 +1,5 @@
+C:\Users\Maria\documents\visual studio 2013\Projects\Charp2ExamPreparation\AirplaneDrinks\bin\Debug\AirplaneDrinks.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\Charp2ExamPreparation\AirplaneDrinks\bin\Debug\AirplaneDrinks.pdb
+C:\Users\Maria\documents\visual studio 2013\Projects\Charp2ExamPreparation\AirplaneDrinks\obj\Debug\AirplaneDrinks.csprojResolveAssemblyReference.cache
+C:\Users\Maria\documents\visual studio 2013\Projects\Charp2ExamPreparation\AirplaneDrinks\obj\Debug\AirplaneDrinks.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\Charp2ExamPreparation\AirplaneDrinks\obj\Debug\AirplaneDrinks.pdb

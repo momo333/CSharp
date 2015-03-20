@@ -1,0 +1,5 @@
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\NightMareOfCodeStreet\bin\Debug\NightMareOfCodeStreet.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\NightMareOfCodeStreet\bin\Debug\NightMareOfCodeStreet.pdb
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\NightMareOfCodeStreet\obj\Debug\NightMareOfCodeStreet.csprojResolveAssemblyReference.cache
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\NightMareOfCodeStreet\obj\Debug\NightMareOfCodeStreet.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\NightMareOfCodeStreet\obj\Debug\NightMareOfCodeStreet.pdb

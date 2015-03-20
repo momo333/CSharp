@@ -1,0 +1,6 @@
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\BinaryDigitsCount\bin\Debug\BinaryDigitsCount.exe.config
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\BinaryDigitsCount\bin\Debug\BinaryDigitsCount.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\BinaryDigitsCount\bin\Debug\BinaryDigitsCount.pdb
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\BinaryDigitsCount\obj\Debug\BinaryDigitsCount.csprojResolveAssemblyReference.cache
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\BinaryDigitsCount\obj\Debug\BinaryDigitsCount.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\27.12.2012Telerik\BinaryDigitsCount\obj\Debug\BinaryDigitsCount.pdb

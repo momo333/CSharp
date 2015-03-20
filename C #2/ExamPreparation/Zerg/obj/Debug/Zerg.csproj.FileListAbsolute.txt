@@ -1,0 +1,5 @@
+C:\Users\Maria\documents\visual studio 2013\Projects\Charp2ExamPreparation\Zerg\bin\Debug\Zerg.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\Charp2ExamPreparation\Zerg\bin\Debug\Zerg.pdb
+C:\Users\Maria\documents\visual studio 2013\Projects\Charp2ExamPreparation\Zerg\obj\Debug\Zerg.csprojResolveAssemblyReference.cache
+C:\Users\Maria\documents\visual studio 2013\Projects\Charp2ExamPreparation\Zerg\obj\Debug\Zerg.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\Charp2ExamPreparation\Zerg\obj\Debug\Zerg.pdb
