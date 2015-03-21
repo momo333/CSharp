@@ -1,0 +1,6 @@
+C:\Users\Maria\Documents\visual studio 2013\Projects\softuniExams\Star\bin\Debug\Star.exe.config
+C:\Users\Maria\Documents\visual studio 2013\Projects\softuniExams\Star\bin\Debug\Star.exe
+C:\Users\Maria\Documents\visual studio 2013\Projects\softuniExams\Star\bin\Debug\Star.pdb
+C:\Users\Maria\Documents\visual studio 2013\Projects\softuniExams\Star\obj\Debug\Star.csprojResolveAssemblyReference.cache
+C:\Users\Maria\Documents\visual studio 2013\Projects\softuniExams\Star\obj\Debug\Star.exe
+C:\Users\Maria\Documents\visual studio 2013\Projects\softuniExams\Star\obj\Debug\Star.pdb

@@ -1,0 +1,5 @@
+C:\Users\Maria\Documents\Visual Studio 2013\Projects\softuniExams\ExamSchedule\bin\Debug\ExamSchedule.exe
+C:\Users\Maria\Documents\Visual Studio 2013\Projects\softuniExams\ExamSchedule\bin\Debug\ExamSchedule.pdb
+C:\Users\Maria\Documents\Visual Studio 2013\Projects\softuniExams\ExamSchedule\obj\Debug\ExamSchedule.csprojResolveAssemblyReference.cache
+C:\Users\Maria\Documents\Visual Studio 2013\Projects\softuniExams\ExamSchedule\obj\Debug\ExamSchedule.exe
+C:\Users\Maria\Documents\Visual Studio 2013\Projects\softuniExams\ExamSchedule\obj\Debug\ExamSchedule.pdb

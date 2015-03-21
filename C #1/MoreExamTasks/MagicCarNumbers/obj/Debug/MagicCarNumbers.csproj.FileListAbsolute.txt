@@ -1,0 +1,5 @@
+C:\Users\Maria\documents\visual studio 2013\Projects\softuniExams\MagicCarNumbers\bin\Debug\MagicCarNumbers.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\softuniExams\MagicCarNumbers\bin\Debug\MagicCarNumbers.pdb
+C:\Users\Maria\documents\visual studio 2013\Projects\softuniExams\MagicCarNumbers\obj\Debug\MagicCarNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Maria\documents\visual studio 2013\Projects\softuniExams\MagicCarNumbers\obj\Debug\MagicCarNumbers.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\softuniExams\MagicCarNumbers\obj\Debug\MagicCarNumbers.pdb

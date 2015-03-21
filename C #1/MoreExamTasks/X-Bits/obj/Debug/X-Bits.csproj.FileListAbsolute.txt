@@ -1,0 +1,5 @@
+C:\Users\Maria\Documents\Visual Studio 2013\Projects\softuniExams\X-Bits\bin\Debug\X-Bits.exe
+C:\Users\Maria\Documents\Visual Studio 2013\Projects\softuniExams\X-Bits\bin\Debug\X-Bits.pdb
+C:\Users\Maria\Documents\Visual Studio 2013\Projects\softuniExams\X-Bits\obj\Debug\X-Bits.csprojResolveAssemblyReference.cache
+C:\Users\Maria\Documents\Visual Studio 2013\Projects\softuniExams\X-Bits\obj\Debug\X-Bits.exe
+C:\Users\Maria\Documents\Visual Studio 2013\Projects\softuniExams\X-Bits\obj\Debug\X-Bits.pdb

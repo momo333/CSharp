@@ -1,0 +1,5 @@
+C:\Users\Maria\Documents\Visual Studio 2013\Projects\softuniExams\Plane\bin\Debug\Plane.exe
+C:\Users\Maria\Documents\Visual Studio 2013\Projects\softuniExams\Plane\bin\Debug\Plane.pdb
+C:\Users\Maria\Documents\Visual Studio 2013\Projects\softuniExams\Plane\obj\Debug\Plane.csprojResolveAssemblyReference.cache
+C:\Users\Maria\Documents\Visual Studio 2013\Projects\softuniExams\Plane\obj\Debug\Plane.exe
+C:\Users\Maria\Documents\Visual Studio 2013\Projects\softuniExams\Plane\obj\Debug\Plane.pdb

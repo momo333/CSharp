@@ -1,0 +1,5 @@
+C:\Users\Maria\Documents\visual studio 2013\Projects\softuniExams\Tica-tac-toe\bin\Debug\Tica-tac-toe.exe
+C:\Users\Maria\Documents\visual studio 2013\Projects\softuniExams\Tica-tac-toe\bin\Debug\Tica-tac-toe.pdb
+C:\Users\Maria\Documents\visual studio 2013\Projects\softuniExams\Tica-tac-toe\obj\Debug\Tica-tac-toe.csprojResolveAssemblyReference.cache
+C:\Users\Maria\Documents\visual studio 2013\Projects\softuniExams\Tica-tac-toe\obj\Debug\Tica-tac-toe.exe
+C:\Users\Maria\Documents\visual studio 2013\Projects\softuniExams\Tica-tac-toe\obj\Debug\Tica-tac-toe.pdb

@@ -1,0 +1,4 @@
+c:\Users\Maria\documents\visual studio 2013\Projects\softuniExams\PiggyBank\bin\Debug\PiggyBank.exe
+c:\Users\Maria\documents\visual studio 2013\Projects\softuniExams\PiggyBank\bin\Debug\PiggyBank.pdb
+c:\Users\Maria\documents\visual studio 2013\Projects\softuniExams\PiggyBank\obj\Debug\PiggyBank.exe
+c:\Users\Maria\documents\visual studio 2013\Projects\softuniExams\PiggyBank\obj\Debug\PiggyBank.pdb

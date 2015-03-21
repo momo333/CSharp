@@ -1,0 +1,5 @@
+C:\Users\Maria\documents\visual studio 2013\Projects\softuniExams\ProgrammerDNA\bin\Debug\ProgrammerDNA.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\softuniExams\ProgrammerDNA\bin\Debug\ProgrammerDNA.pdb
+C:\Users\Maria\documents\visual studio 2013\Projects\softuniExams\ProgrammerDNA\obj\Debug\ProgrammerDNA.csprojResolveAssemblyReference.cache
+C:\Users\Maria\documents\visual studio 2013\Projects\softuniExams\ProgrammerDNA\obj\Debug\ProgrammerDNA.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\softuniExams\ProgrammerDNA\obj\Debug\ProgrammerDNA.pdb

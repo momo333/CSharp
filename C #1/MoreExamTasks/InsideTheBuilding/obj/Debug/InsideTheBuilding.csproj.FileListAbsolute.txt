@@ -1,0 +1,5 @@
+C:\Users\Maria\documents\visual studio 2013\Projects\softuniExams\InsideTheBuilding\bin\Debug\InsideTheBuilding.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\softuniExams\InsideTheBuilding\bin\Debug\InsideTheBuilding.pdb
+C:\Users\Maria\documents\visual studio 2013\Projects\softuniExams\InsideTheBuilding\obj\Debug\InsideTheBuilding.csprojResolveAssemblyReference.cache
+C:\Users\Maria\documents\visual studio 2013\Projects\softuniExams\InsideTheBuilding\obj\Debug\InsideTheBuilding.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\softuniExams\InsideTheBuilding\obj\Debug\InsideTheBuilding.pdb

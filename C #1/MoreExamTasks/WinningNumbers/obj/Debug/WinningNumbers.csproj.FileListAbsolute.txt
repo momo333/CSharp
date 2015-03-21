@@ -1,0 +1,4 @@
+C:\Users\Maria\Documents\visual studio 2013\Projects\softuniExams\WinningNumbers\bin\Debug\WinningNumbers.exe
+C:\Users\Maria\Documents\visual studio 2013\Projects\softuniExams\WinningNumbers\bin\Debug\WinningNumbers.pdb
+C:\Users\Maria\Documents\visual studio 2013\Projects\softuniExams\WinningNumbers\obj\Debug\WinningNumbers.exe
+C:\Users\Maria\Documents\visual studio 2013\Projects\softuniExams\WinningNumbers\obj\Debug\WinningNumbers.pdb
