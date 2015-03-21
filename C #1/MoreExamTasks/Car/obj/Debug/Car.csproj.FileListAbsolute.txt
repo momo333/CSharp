@@ -1,0 +1,6 @@
+C:\Users\Maria\Documents\Visual Studio 2013\Projects\softuniExams\Car\bin\Debug\Car.exe.config
+C:\Users\Maria\Documents\Visual Studio 2013\Projects\softuniExams\Car\bin\Debug\Car.exe
+C:\Users\Maria\Documents\Visual Studio 2013\Projects\softuniExams\Car\bin\Debug\Car.pdb
+C:\Users\Maria\Documents\Visual Studio 2013\Projects\softuniExams\Car\obj\Debug\Car.csprojResolveAssemblyReference.cache
+C:\Users\Maria\Documents\Visual Studio 2013\Projects\softuniExams\Car\obj\Debug\Car.exe
+C:\Users\Maria\Documents\Visual Studio 2013\Projects\softuniExams\Car\obj\Debug\Car.pdb

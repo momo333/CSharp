@@ -1,0 +1,4 @@
+C:\Users\Maria\Documents\Visual Studio 2013\Projects\softuniExams\Arrow\bin\Debug\Arrow.exe
+C:\Users\Maria\Documents\Visual Studio 2013\Projects\softuniExams\Arrow\bin\Debug\Arrow.pdb
+C:\Users\Maria\Documents\Visual Studio 2013\Projects\softuniExams\Arrow\obj\Debug\Arrow.exe
+C:\Users\Maria\Documents\Visual Studio 2013\Projects\softuniExams\Arrow\obj\Debug\Arrow.pdb

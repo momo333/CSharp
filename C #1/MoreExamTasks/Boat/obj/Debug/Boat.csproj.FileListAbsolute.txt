@@ -1,0 +1,5 @@
+c:\Users\Maria\documents\visual studio 2013\Projects\softuniExams\Boat\bin\Debug\Boat.exe
+c:\Users\Maria\documents\visual studio 2013\Projects\softuniExams\Boat\bin\Debug\Boat.pdb
+c:\Users\Maria\documents\visual studio 2013\Projects\softuniExams\Boat\obj\Debug\Boat.csprojResolveAssemblyReference.cache
+c:\Users\Maria\documents\visual studio 2013\Projects\softuniExams\Boat\obj\Debug\Boat.exe
+c:\Users\Maria\documents\visual studio 2013\Projects\softuniExams\Boat\obj\Debug\Boat.pdb

@@ -1,0 +1,5 @@
+c:\Users\Maria\documents\visual studio 2013\Projects\softuniExams\CheatSheet\bin\Debug\CheatSheet.exe
+c:\Users\Maria\documents\visual studio 2013\Projects\softuniExams\CheatSheet\bin\Debug\CheatSheet.pdb
+c:\Users\Maria\documents\visual studio 2013\Projects\softuniExams\CheatSheet\obj\Debug\CheatSheet.csprojResolveAssemblyReference.cache
+c:\Users\Maria\documents\visual studio 2013\Projects\softuniExams\CheatSheet\obj\Debug\CheatSheet.exe
+c:\Users\Maria\documents\visual studio 2013\Projects\softuniExams\CheatSheet\obj\Debug\CheatSheet.pdb

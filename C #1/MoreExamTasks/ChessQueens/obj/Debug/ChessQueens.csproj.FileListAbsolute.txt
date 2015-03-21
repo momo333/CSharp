@@ -1,0 +1,1 @@
+C:\Users\Maria\Documents\Visual Studio 2013\Projects\softuniExams\ChessQueens\bin\Debug\ChessQueens.exe.config
