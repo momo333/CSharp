@@ -1,0 +1,5 @@
+C:\Users\Maria\documents\visual studio 2013\Projects\Extension-Methods-Delegates-Lambda-LINQ\StudentSystem\obj\Debug\StudentSystem.csprojResolveAssemblyReference.cache
+C:\Users\Maria\documents\visual studio 2013\Projects\Extension-Methods-Delegates-Lambda-LINQ\StudentSystem\bin\Debug\StudentSystem.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\Extension-Methods-Delegates-Lambda-LINQ\StudentSystem\bin\Debug\StudentSystem.pdb
+C:\Users\Maria\documents\visual studio 2013\Projects\Extension-Methods-Delegates-Lambda-LINQ\StudentSystem\obj\Debug\StudentSystem.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\Extension-Methods-Delegates-Lambda-LINQ\StudentSystem\obj\Debug\StudentSystem.pdb

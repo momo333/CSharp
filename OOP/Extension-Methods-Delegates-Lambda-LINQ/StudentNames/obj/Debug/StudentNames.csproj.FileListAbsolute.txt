@@ -1,0 +1,5 @@
+c:\users\maria\documents\visual studio 2013\Projects\Extension-Methods-Delegates-Lambda-LINQ\StudentNames\bin\Debug\StudentNames.exe
+c:\users\maria\documents\visual studio 2013\Projects\Extension-Methods-Delegates-Lambda-LINQ\StudentNames\bin\Debug\StudentNames.pdb
+c:\users\maria\documents\visual studio 2013\Projects\Extension-Methods-Delegates-Lambda-LINQ\StudentNames\obj\Debug\StudentNames.csprojResolveAssemblyReference.cache
+c:\users\maria\documents\visual studio 2013\Projects\Extension-Methods-Delegates-Lambda-LINQ\StudentNames\obj\Debug\StudentNames.exe
+c:\users\maria\documents\visual studio 2013\Projects\Extension-Methods-Delegates-Lambda-LINQ\StudentNames\obj\Debug\StudentNames.pdb

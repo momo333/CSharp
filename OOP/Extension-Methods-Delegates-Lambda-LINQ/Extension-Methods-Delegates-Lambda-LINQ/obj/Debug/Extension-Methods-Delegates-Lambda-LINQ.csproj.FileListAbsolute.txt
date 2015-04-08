@@ -1,0 +1,5 @@
+c:\users\maria\documents\visual studio 2013\Projects\Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ\bin\Debug\Extension-Methods-Delegates-Lambda-LINQ.exe
+c:\users\maria\documents\visual studio 2013\Projects\Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ\bin\Debug\Extension-Methods-Delegates-Lambda-LINQ.pdb
+c:\users\maria\documents\visual studio 2013\Projects\Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ\obj\Debug\Extension-Methods-Delegates-Lambda-LINQ.csprojResolveAssemblyReference.cache
+c:\users\maria\documents\visual studio 2013\Projects\Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ\obj\Debug\Extension-Methods-Delegates-Lambda-LINQ.exe
+c:\users\maria\documents\visual studio 2013\Projects\Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ\obj\Debug\Extension-Methods-Delegates-Lambda-LINQ.pdb

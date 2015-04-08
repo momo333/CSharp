@@ -1,0 +1,5 @@
+C:\Users\Maria\documents\visual studio 2013\Projects\OOPPrinciplesPrat1\StudentsAndWorkers\bin\Debug\StudentsAndWorkers.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\OOPPrinciplesPrat1\StudentsAndWorkers\bin\Debug\StudentsAndWorkers.pdb
+C:\Users\Maria\documents\visual studio 2013\Projects\OOPPrinciplesPrat1\StudentsAndWorkers\obj\Debug\StudentsAndWorkers.csprojResolveAssemblyReference.cache
+C:\Users\Maria\documents\visual studio 2013\Projects\OOPPrinciplesPrat1\StudentsAndWorkers\obj\Debug\StudentsAndWorkers.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\OOPPrinciplesPrat1\StudentsAndWorkers\obj\Debug\StudentsAndWorkers.pdb

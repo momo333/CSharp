@@ -1,0 +1,2 @@
+c:\users\maria\documents\visual studio 2013\Projects\OOPPrinciplesPrat1\OOPPrinciplesPrat1\bin\Debug\OOPPrinciplesPrat1.exe.config
+C:\Users\Maria\documents\visual studio 2013\Projects\OOPPrinciplesPrat1\OOPPrinciplesPrat1\obj\Debug\OOPPrinciplesPrat1.csprojResolveAssemblyReference.cache

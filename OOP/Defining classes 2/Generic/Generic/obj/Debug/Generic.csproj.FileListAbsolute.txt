@@ -1,0 +1,10 @@
+C:\Users\Maria\documents\visual studio 2013\Projects\Generic\Generic\bin\Debug\Generic.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\Generic\Generic\bin\Debug\Generic.pdb
+C:\Users\Maria\documents\visual studio 2013\Projects\Generic\Generic\obj\Debug\Generic.csprojResolveAssemblyReference.cache
+C:\Users\Maria\documents\visual studio 2013\Projects\Generic\Generic\obj\Debug\Generic.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\Generic\Generic\obj\Debug\Generic.pdb
+C:\Users\Maria\Desktop\Defining classes 2\Generic\Generic\obj\Debug\Generic.exe
+C:\Users\Maria\Desktop\Defining classes 2\Generic\Generic\obj\Debug\Generic.pdb
+C:\Users\Maria\Desktop\Defining classes 2\Generic\Generic\bin\Debug\Generic.exe
+C:\Users\Maria\Desktop\Defining classes 2\Generic\Generic\bin\Debug\Generic.pdb
+C:\Users\Maria\Desktop\Defining classes 2\Generic\Generic\obj\Debug\Generic.csprojResolveAssemblyReference.cache

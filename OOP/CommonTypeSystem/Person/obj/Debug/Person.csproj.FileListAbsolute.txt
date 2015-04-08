@@ -1,0 +1,4 @@
+C:\Users\Maria\documents\visual studio 2013\Projects\CommnTypeSystem\Person\bin\Debug\Person.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\CommnTypeSystem\Person\bin\Debug\Person.pdb
+C:\Users\Maria\documents\visual studio 2013\Projects\CommnTypeSystem\Person\obj\Debug\Person.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\CommnTypeSystem\Person\obj\Debug\Person.pdb

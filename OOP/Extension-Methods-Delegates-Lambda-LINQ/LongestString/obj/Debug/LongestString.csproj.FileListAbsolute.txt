@@ -1,0 +1,5 @@
+C:\Users\Maria\documents\visual studio 2013\Projects\Extension-Methods-Delegates-Lambda-LINQ\LongestString\obj\Debug\LongestString.csprojResolveAssemblyReference.cache
+C:\Users\Maria\documents\visual studio 2013\Projects\Extension-Methods-Delegates-Lambda-LINQ\LongestString\bin\Debug\LongestString.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\Extension-Methods-Delegates-Lambda-LINQ\LongestString\bin\Debug\LongestString.pdb
+C:\Users\Maria\documents\visual studio 2013\Projects\Extension-Methods-Delegates-Lambda-LINQ\LongestString\obj\Debug\LongestString.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\Extension-Methods-Delegates-Lambda-LINQ\LongestString\obj\Debug\LongestString.pdb

@@ -1,0 +1,1 @@
+c:\users\maria\documents\visual studio 2013\Projects\Extension-Methods-Delegates-Lambda-LINQ\DivisiblebyThreeAndSeven\bin\Debug\DivisiblebyThreeAndSeven.exe.config

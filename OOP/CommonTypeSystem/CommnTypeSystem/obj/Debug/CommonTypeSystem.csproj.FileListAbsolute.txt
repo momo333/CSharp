@@ -1,0 +1,5 @@
+C:\Users\Maria\documents\visual studio 2013\Projects\CommnTypeSystem\CommnTypeSystem\bin\Debug\CommnTypeSystem.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\CommnTypeSystem\CommnTypeSystem\bin\Debug\CommnTypeSystem.pdb
+C:\Users\Maria\documents\visual studio 2013\Projects\CommnTypeSystem\CommnTypeSystem\obj\Debug\CommonTypeSystem.csprojResolveAssemblyReference.cache
+C:\Users\Maria\documents\visual studio 2013\Projects\CommnTypeSystem\CommnTypeSystem\obj\Debug\CommnTypeSystem.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\CommnTypeSystem\CommnTypeSystem\obj\Debug\CommnTypeSystem.pdb

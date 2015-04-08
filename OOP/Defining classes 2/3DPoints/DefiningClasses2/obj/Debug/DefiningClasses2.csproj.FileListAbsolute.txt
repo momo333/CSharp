@@ -1,0 +1,14 @@
+C:\Users\Maria\documents\visual studio 2013\Projects\DefiningClasses2\DefiningClasses2\bin\Debug\DefiningClasses2.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\DefiningClasses2\DefiningClasses2\bin\Debug\DefiningClasses2.pdb
+C:\Users\Maria\documents\visual studio 2013\Projects\DefiningClasses2\DefiningClasses2\obj\Debug\DefiningClasses2.csprojResolveAssemblyReference.cache
+C:\Users\Maria\documents\visual studio 2013\Projects\DefiningClasses2\DefiningClasses2\obj\Debug\DefiningClasses2.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\DefiningClasses2\DefiningClasses2\obj\Debug\DefiningClasses2.pdb
+C:\Users\Maria\Desktop\Defining classes 2\DefiningClasses2\DefiningClasses2\obj\Debug\DefiningClasses2.exe
+C:\Users\Maria\Desktop\Defining classes 2\DefiningClasses2\DefiningClasses2\obj\Debug\DefiningClasses2.pdb
+C:\Users\Maria\Desktop\Defining classes 2\3DPoints\DefiningClasses2\obj\Debug\DefiningClasses2.exe
+C:\Users\Maria\Desktop\Defining classes 2\3DPoints\DefiningClasses2\obj\Debug\DefiningClasses2.pdb
+C:\Users\Maria\Desktop\Defining classes 2\3DPoints\DefiningClasses2\bin\Debug\DefiningClasses2.exe
+C:\Users\Maria\Desktop\Defining classes 2\3DPoints\DefiningClasses2\bin\Debug\DefiningClasses2.pdb
+C:\Users\Maria\Desktop\Defining classes 2\3DPoints\DefiningClasses2\obj\Debug\DefiningClasses2.csprojResolveAssemblyReference.cache
+C:\Users\Maria\Desktop\stuff\Telerik\OOP\Defining classes 2\3DPoints\DefiningClasses2\obj\Debug\DefiningClasses2.exe
+C:\Users\Maria\Desktop\stuff\Telerik\OOP\Defining classes 2\3DPoints\DefiningClasses2\obj\Debug\DefiningClasses2.pdb

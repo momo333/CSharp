@@ -1,0 +1,7 @@
+c:\users\maria\documents\visual studio 2013\Projects\Solution4\Shapes\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
+c:\users\maria\documents\visual studio 2013\Projects\Solution4\Shapes\bin\Debug\Shapes.exe
+c:\users\maria\documents\visual studio 2013\Projects\Solution4\Shapes\bin\Debug\Shapes.pdb
+c:\users\maria\documents\visual studio 2013\Projects\Solution4\Shapes\obj\Debug\Shapes.exe
+c:\users\maria\documents\visual studio 2013\Projects\Solution4\Shapes\obj\Debug\Shapes.pdb
+C:\Users\Maria\Desktop\stuff\Telerik\OOP\OOPPrinciplesPart2\Shapes\obj\Debug\Shapes.exe
+C:\Users\Maria\Desktop\stuff\Telerik\OOP\OOPPrinciplesPart2\Shapes\obj\Debug\Shapes.pdb

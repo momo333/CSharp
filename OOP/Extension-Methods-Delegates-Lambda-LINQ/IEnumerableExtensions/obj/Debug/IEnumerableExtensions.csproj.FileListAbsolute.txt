@@ -1,0 +1,4 @@
+c:\users\maria\documents\visual studio 2013\Projects\Extension-Methods-Delegates-Lambda-LINQ\IEnumerableExtensions\bin\Debug\IEnumerableExtensions.exe
+c:\users\maria\documents\visual studio 2013\Projects\Extension-Methods-Delegates-Lambda-LINQ\IEnumerableExtensions\bin\Debug\IEnumerableExtensions.pdb
+c:\users\maria\documents\visual studio 2013\Projects\Extension-Methods-Delegates-Lambda-LINQ\IEnumerableExtensions\obj\Debug\IEnumerableExtensions.exe
+c:\users\maria\documents\visual studio 2013\Projects\Extension-Methods-Delegates-Lambda-LINQ\IEnumerableExtensions\obj\Debug\IEnumerableExtensions.pdb

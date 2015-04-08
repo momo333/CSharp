@@ -1,0 +1,9 @@
+C:\Users\Maria\documents\visual studio 2013\Projects\Solution4\ConsoleApplication1\obj\Debug\DefineClasses.csprojResolveAssemblyReference.cache
+C:\Users\Maria\documents\visual studio 2013\Projects\Solution4\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\Solution4\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Maria\documents\visual studio 2013\Projects\Solution4\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\Solution4\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Maria\Desktop\stuff\Telerik\OOP\DefineClasses\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Maria\Desktop\stuff\Telerik\OOP\DefineClasses\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Maria\Desktop\stuff\Telerik\OOP\Definingclasses\DefineClasses - bug\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Maria\Desktop\stuff\Telerik\OOP\Definingclasses\DefineClasses - bug\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

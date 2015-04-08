@@ -1,0 +1,5 @@
+C:\Users\Maria\documents\visual studio 2013\Projects\Extension-Methods-Delegates-Lambda-LINQ\GroupByNumber\bin\Debug\GroupByNumber.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\Extension-Methods-Delegates-Lambda-LINQ\GroupByNumber\bin\Debug\GroupByNumber.pdb
+C:\Users\Maria\documents\visual studio 2013\Projects\Extension-Methods-Delegates-Lambda-LINQ\GroupByNumber\obj\Debug\GroupByNumber.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\Extension-Methods-Delegates-Lambda-LINQ\GroupByNumber\obj\Debug\GroupByNumber.pdb
+C:\Users\Maria\documents\visual studio 2013\Projects\Extension-Methods-Delegates-Lambda-LINQ\GroupByNumber\obj\Debug\GroupByNumber.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\Maria\documents\visual studio 2013\Projects\Solution4\RangeException\obj\Debug\RangeException.csprojResolveAssemblyReference.cache
+C:\Users\Maria\documents\visual studio 2013\Projects\Solution4\RangeException\bin\Debug\RangeException.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\Solution4\RangeException\bin\Debug\RangeException.pdb
+C:\Users\Maria\documents\visual studio 2013\Projects\Solution4\RangeException\obj\Debug\RangeException.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\Solution4\RangeException\obj\Debug\RangeException.pdb
+C:\Users\Maria\Desktop\stuff\Telerik\OOP\OOPPrinciplesPart2\RangeException\obj\Debug\RangeException.exe
+C:\Users\Maria\Desktop\stuff\Telerik\OOP\OOPPrinciplesPart2\RangeException\obj\Debug\RangeException.pdb

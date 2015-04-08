@@ -1,0 +1,15 @@
+c:\users\maria\documents\visual studio 2013\Projects\DefiningClasses1\DefiningClasses1\bin\Debug\DefiningClasses1.exe
+c:\users\maria\documents\visual studio 2013\Projects\DefiningClasses1\DefiningClasses1\bin\Debug\DefiningClasses1.pdb
+c:\users\maria\documents\visual studio 2013\Projects\DefiningClasses1\DefiningClasses1\obj\Debug\DefiningClasses1.csprojResolveAssemblyReference.cache
+c:\users\maria\documents\visual studio 2013\Projects\DefiningClasses1\DefiningClasses1\obj\Debug\DefiningClasses1.exe
+c:\users\maria\documents\visual studio 2013\Projects\DefiningClasses1\DefiningClasses1\obj\Debug\DefiningClasses1.pdb
+C:\Users\Maria\Desktop\stuff\Telerik\OOP\Definingclasses\DefineClasses\DefiningClasses1\obj\Debug\DefiningClasses1.exe
+C:\Users\Maria\Desktop\stuff\Telerik\OOP\Definingclasses\DefineClasses\DefiningClasses1\obj\Debug\DefiningClasses1.pdb
+C:\Users\Maria\Desktop\stuff\Telerik\OOP\Definingclasses\DefineClasses\DefiningClasses1\bin\Debug\DefiningClasses1.exe
+C:\Users\Maria\Desktop\stuff\Telerik\OOP\Definingclasses\DefineClasses\DefiningClasses1\bin\Debug\DefiningClasses1.pdb
+C:\Users\Maria\Desktop\stuff\Telerik\OOP\Definingclasses\DefineClasses\DefiningClasses1\obj\Debug\DefiningClasses1.csprojResolveAssemblyReference.cache
+C:\Users\Maria\Desktop\stuff\Telerik\OOP\Definingclasses\DefiningClasses1\obj\Debug\DefiningClasses1.exe
+C:\Users\Maria\Desktop\stuff\Telerik\OOP\Definingclasses\DefiningClasses1\obj\Debug\DefiningClasses1.pdb
+C:\Users\Maria\Desktop\stuff\Telerik\OOP\Definingclasses\DefiningClasses1\bin\Debug\DefiningClasses1.exe
+C:\Users\Maria\Desktop\stuff\Telerik\OOP\Definingclasses\DefiningClasses1\bin\Debug\DefiningClasses1.pdb
+C:\Users\Maria\Desktop\stuff\Telerik\OOP\Definingclasses\DefiningClasses1\obj\Debug\DefiningClasses1.csprojResolveAssemblyReference.cache

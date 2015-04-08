@@ -1,0 +1,10 @@
+C:\Users\Maria\documents\visual studio 2013\Projects\Solution4\BankAccount\bin\Debug\BankAccount.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\Solution4\BankAccount\bin\Debug\BankAccount.pdb
+C:\Users\Maria\documents\visual studio 2013\Projects\Solution4\BankAccount\obj\Debug\BankAccount.csprojResolveAssemblyReference.cache
+C:\Users\Maria\documents\visual studio 2013\Projects\Solution4\BankAccount\obj\Debug\BankAccount.exe
+C:\Users\Maria\documents\visual studio 2013\Projects\Solution4\BankAccount\obj\Debug\BankAccount.pdb
+C:\Users\Maria\Desktop\stuff\Telerik\OOP\OOPPrinciplesPart2\BankAccount\obj\Debug\BankAccount.exe
+C:\Users\Maria\Desktop\stuff\Telerik\OOP\OOPPrinciplesPart2\BankAccount\obj\Debug\BankAccount.pdb
+C:\Users\Maria\Desktop\stuff\Telerik\OOP\OOPPrinciplesPart2\BankAccount\bin\Debug\BankAccount.exe
+C:\Users\Maria\Desktop\stuff\Telerik\OOP\OOPPrinciplesPart2\BankAccount\bin\Debug\BankAccount.pdb
+C:\Users\Maria\Desktop\stuff\Telerik\OOP\OOPPrinciplesPart2\BankAccount\obj\Debug\BankAccount.csprojResolveAssemblyReference.cache
