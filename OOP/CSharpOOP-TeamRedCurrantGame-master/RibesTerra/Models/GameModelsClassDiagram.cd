@@ -1,0 +1,237 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Models.Spell" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="26.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAQAAAAEEAAAAgAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Spells\Spell.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Models.GameObject" Collapsed="true">
+    <Position X="13.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAABAACAAAAAQAAAAEAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>GameObject.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Models.Character" Collapsed="true">
+    <Position X="20" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAEAAAAAAACAAAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Creatures\Character.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Models.Creature" Collapsed="true">
+    <Position X="21.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAQAAACACEAAAACCAAAAAAFAAAAAAAAAAIABI=</HashCode>
+      <FileName>Creatures\Creature.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Models.Enemy" Collapsed="true">
+    <Position X="22.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAQAAAAAAAAABA=</HashCode>
+      <FileName>Creatures\Enemy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Models.Gear.Gear" Collapsed="true">
+    <Position X="11" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAQAgAAAEIAAAAAAAACAAAAAgAAQAAAAAAAA=</HashCode>
+      <FileName>Gear\Gear.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Models.Gear.Items.Armour" Collapsed="true">
+    <Position X="6.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gear\Items\Armour.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Models.Gear.Items.Boots" Collapsed="true">
+    <Position X="8.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAgAAA=</HashCode>
+      <FileName>Gear\Items\Boots.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Models.Gear.Items.Gloves" Collapsed="true">
+    <Position X="11" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gear\Items\Gloves.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Models.Gear.Items.Helmet" Collapsed="true">
+    <Position X="4.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>Gear\Items\Helmet.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Models.Gear.Items.Item" Collapsed="true">
+    <Position X="7.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAgAAAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gear\Items\Item.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Models.Gear.Shop.ItemShop" Collapsed="true">
+    <Position X="26.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAIAAAAAEAAQEAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gear\Shop\ItemShop.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Models.Gear.Weapons.Bow" Collapsed="true">
+    <Position X="13.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAABgAAAAIAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gear\Weapons\Bow.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Models.Gear.Weapons.Staff" Collapsed="true">
+    <Position X="15.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAEEAAAAAAAA=</HashCode>
+      <FileName>Gear\Weapons\Staff.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Models.Gear.Weapons.Sword" Collapsed="true">
+    <Position X="17.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gear\Weapons\Sword.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Models.Gear.Weapons.Weapon" Collapsed="true">
+    <Position X="15.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAQAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Gear\Weapons\Weapon.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Models.Extensions.RandomGenerator" Collapsed="true">
+    <Position X="24.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Extensions\RandomGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Models.CustomExceptions.InvalidRangeException&lt;T&gt;" Collapsed="true">
+    <Position X="24.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>CustomExceptions\InvalidRangeException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Models.Gear.Shop.GearInStock" Collapsed="true">
+    <Position X="24.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQAAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gear\Shop\GearInStock.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="Models.Interfaces.ICharacter" Collapsed="true">
+    <Position X="3.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\ICharacter.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Models.Interfaces.ICreature" Collapsed="true">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAACACAAAAAACAAAAAAFAAAAAAAAAAIABA=</HashCode>
+      <FileName>Interfaces\ICreature.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Models.Interfaces.ICreatureFactory" Collapsed="true">
+    <Position X="24.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\ICreatureFactory.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Models.Interfaces.IGear" Collapsed="true">
+    <Position X="4.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAgAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IGear.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Models.Interfaces.IGearFactory" Collapsed="true">
+    <Position X="26.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IGearFactory.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Models.Interfaces.IItem" Collapsed="true">
+    <Position X="5.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IItem.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Models.Interfaces.ISpell" Collapsed="true">
+    <Position X="24.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\ISpell.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Models.Interfaces.IWeapon" Collapsed="true">
+    <Position X="3.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Interfaces\IWeapon.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Models.Spells.SpellType" Collapsed="true">
+    <Position X="24.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMAAAA=</HashCode>
+      <FileName>Spells\SpellType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Models.Gear.Items.ItemType" Collapsed="true">
+    <Position X="26.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgBAAAAAQAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Gear\Items\ItemType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Models.Gear.Items.WeaponType" Collapsed="true">
+    <Position X="26.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAACIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gear\Weapons\WeaponType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Models.Creatures.GenderType" Collapsed="true">
+    <Position X="24.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Creatures\GenderType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

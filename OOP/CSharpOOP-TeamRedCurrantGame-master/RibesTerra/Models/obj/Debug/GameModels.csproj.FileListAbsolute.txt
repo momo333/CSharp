@@ -1,0 +1,6 @@
+C:\Users\Maria\Desktop\CSharpOOP-TeamRedCurrantGame-master\RibesTerra\Models\obj\Debug\GameModels.csprojResolveAssemblyReference.cache
+C:\Users\Maria\Desktop\CSharpOOP-TeamRedCurrantGame-master\RibesTerra\Models\bin\Debug\Models.dll.config
+C:\Users\Maria\Desktop\CSharpOOP-TeamRedCurrantGame-master\RibesTerra\Models\bin\Debug\Models.dll
+C:\Users\Maria\Desktop\CSharpOOP-TeamRedCurrantGame-master\RibesTerra\Models\bin\Debug\Models.pdb
+C:\Users\Maria\Desktop\CSharpOOP-TeamRedCurrantGame-master\RibesTerra\Models\obj\Debug\Models.dll
+C:\Users\Maria\Desktop\CSharpOOP-TeamRedCurrantGame-master\RibesTerra\Models\obj\Debug\Models.pdb
