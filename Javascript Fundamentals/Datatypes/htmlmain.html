@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script>
+        //1
+        var int = 10;
+        var float = 1.05;
+        var bool = false;
+        var string = "Yo";
+        var object = {
+            name: 'James',
+            age: 16
+        };
+
+        var array = [1, 2, 3, 4, 5];
+        var functionOne = function () { alert('YO, Man!'); };
+
+        //2
+        var quote = "'How you doin'?', Joey said.";
+
+        //3
+        function getTypeOf(obj) {
+            var result = 'The type of ' + obj + ' is ' + typeof (obj) + '</span>';
+            var div = document.createElement('div');
+            div.innerHTML = result;
+            document.body.appendChild(div);
+        }
+
+        getTypeOf(int);
+        getTypeOf(float);
+        getTypeOf(bool);
+        getTypeOf(string);
+        getTypeOf(object);
+        getTypeOf(array);
+        getTypeOf(functionOne);
+        getTypeOf(quote);
+        //4
+        var nullVar = null;
+        var undefinedVar = undefined;
+        getTypeOf(nullVar);
+        getTypeOf(undefinedVar);
+    </script>
+</body>
+</html>
